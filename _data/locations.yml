@@ -1,0 +1,1238 @@
+# Data from Mapping the X-Files by Jane Roberts
+# http://www.geography.wisc.edu/courses/geog572/f12/roberts/index.html
+
+- season: 1
+  episode: 1
+  coordinates: -123.530273,44.1738
+  title: Pilot
+  description: Dana Scully is assigned to work with Fox Mulder, an FBI agent with an interest in the paranormal. Together, they travel to Oregon where Mulder believes several teenagers have been abducted by aliens.
+  link: https://en.wikipedia.org/wiki/Pilot_(The_X-Files)
+  place: Blachly, Oregon
+- season: 1
+  episode: 2
+  coordinates: -89.326136,43.083621
+  title: Deep Throat
+  description: When Mulder and Scully investigate a possible conspiracy in the U.S. Air Force, a mysterious character helps Mulder to differentiate between fact and fiction.
+  link: https://en.wikipedia.org/wiki/Deep Throat_(The_X-Files)
+  place: Madison, Wisconsin
+- season: 1
+  episode: 3
+  coordinates: -76.612189,39.290385
+  title: Squeeze
+  description: Mulder and Scully investigate a serial killer who has been active since at least 1903 and is capable of squeezing his body through narrow gaps.
+  link: https://en.wikipedia.org/wiki/Squeeze_(The_X-Files)
+  place: Baltimore, Maryland
+- season: 1
+  episode: 4
+  coordinates: -96.400307,42.499994
+  title: Conduit
+  description: Mulder becomes personally connected when he and Scully encounter a young boy who is deeply affected by the disappearance, or abduction, of his teenage sister.
+  link: https://en.wikipedia.org/wiki/Conduit_(The_X-Files)
+  place: Sioux City, Iowa
+- season: 1
+  episode: 5
+  coordinates: -74.422927,39.364283
+  title: The Jersey Devil
+  description: While investigating a seemingly cannabilistic murderer, Mulder and Scully encounter a beast woman.
+  link: https://en.wikipedia.org/wiki/The Jersey Devil_(The_X-Files)
+  place: Atlantic City, New Jersey
+- season: 1
+  episode: 6
+  coordinates: -75.163789,39.952335
+  title: Shadows
+  description: When two extremely odd corpses appear in Philadelphia, Mulder and Scully investigate the deaths and meet a female secretary who seems to be protected by a strange invisible force.
+  link: https://en.wikipedia.org/wiki/Shadows_(The_X-Files)
+  place: Philadelphia, Pennsylvania
+- season: 1
+  episode: 7
+  coordinates: -77.050689,38.851403
+  title: Ghost in the Machine
+  description: The agents must survive in a building that is controlled by a murderous computer
+  link: https://en.wikipedia.org/wiki/Ghost in the Machine_(The_X-Files)
+  place: Arlington, Virginia
+- season: 1
+  episode: 8
+  coordinates: -149.493673,64.200841
+  title: Ice
+  description: In an Arctic research station, Mulder and Scully are threatened by primordial ice worms that cause their hosts to become dangerously paranoid.
+  link: https://en.wikipedia.org/wiki/Ice_(The_X-Files)
+  place: Healy, Alaska
+- season: 1
+  episode: 9
+  coordinates: -95.36939,29.760193
+  title: Space
+  description: When Mulder and Scully are told of sabotage attempts to NASA Space Shuttles, the agents investigate the reports and find that the space agency may be under alien control.
+  link: https://en.wikipedia.org/wiki/Space_(The_X-Files)
+  place: Houston, Texas
+- season: 1
+  episode: 10
+  coordinates: -88.589444,45.328056
+  title: Fallen Angel
+  description: Mulder is informed about a government cover-up of a UFO crash site, but finds that a fellow UFO enthusiast is also interested in the find.
+  link: https://en.wikipedia.org/wiki/Fallen Angel_(The_X-Files)
+  place: Townsend, Wisconsin
+- season: 1
+  episode: 11
+  coordinates: -73.613611,41.038889
+  title: Eve
+  description: The agents encounter two girls who look identical and whose individual fathers were murdered in similar, odd circumstances at the same moment over 3000 miles apart.
+  link: https://en.wikipedia.org/wiki/Eve_(The_X-Files)
+  place: Greenwich, Connecticut
+- season: 1
+  episode: 12
+  coordinates: -70.339087,41.672928
+  title: Fire
+  description: Mulder must overcome his phobia of fire to catch a mutant killer with fire-controlling capabilities.
+  link: https://en.wikipedia.org/wiki/Fire_(The_X-Files)
+  place: Centerville, Massachusetts
+- season: 1
+  episode: 13
+  coordinates: -78.638614,35.772096
+  title: Beyond the Sea
+  description: 'After Scully''s father dies, her skepticism is put to the test by a prisoner on death row who claims that by using recently gained psychic powers, he can help catch a kidnapper.'
+  link: https://en.wikipedia.org/wiki/Beyond the Sea_(The_X-Files)
+  place: Raleigh, North Carolina
+- season: 1
+  episode: 14
+  coordinates: -77.27165,39.173162
+  title: Gender Bender
+  description: Mulder and Scully investigate an enclosed community called the Kindred who appear to have the ability to switch gender.
+  link: https://en.wikipedia.org/wiki/Gender Bender_(The_X-Files)
+  place: Germantown, Maryland
+- season: 1
+  episode: 15
+  coordinates: -77.094709,38.984652
+  title: Lazarus
+  description: 'After a fellow agent and friend of Scully''s is shot by a criminal who Scully shoots in turn, the agent is revived but Mulder suspects that he is not who he appears to be.'
+  link: https://en.wikipedia.org/wiki/Lazarus_(The_X-Files)
+  place: Bethesda, Maryland
+- season: 1
+  episode: 16
+  coordinates: -77.036366,38.895112
+  title: Young at Heart
+  description: Mulder must stop an elusive stalker who he captured in his youth, but who seems to have remained the same age.
+  link: https://en.wikipedia.org/wiki/Young at Heart_(The_X-Files)
+  place: Washington, DC
+- season: 1
+  episode: 17
+  coordinates: 
+    - 43.733333,37.583333
+    - -88.342542,35.52174
+  title: E.B.E.
+  description: 'After a downed UFO crashes near Iraqi airspace, Mulder and Scully follow an unmarked truck carrying the UFO''s occupant.'
+  link: https://en.wikipedia.org/wiki/E.B.E._(The_X-Files)
+  place: 
+    - Gazi, Hakkari, Turkey
+    - Reagan, Tennessee
+- season: 1
+  episode: 18
+  coordinates: -89.723323,35.484039
+  title: Miracle Man
+  description: Mulder and Scully encounter a religious healer who seems to have the power to perform miracles.
+  link: https://en.wikipedia.org/wiki/Miracle Man_(The_X-Files)
+  place: Brighton, Tennessee
+- season: 1
+  episode: 19
+  coordinates: -113.013417,48.556917
+  title: Shapes
+  description: The shooting of a Native American draws Mulder and Scully into mystery involving lycanthropy, the phenomenon that opened the X-files.
+  link: https://en.wikipedia.org/wiki/Shapes_(The_X-Files)
+  place: Browning, Montana
+- season: 1
+  episode: 20
+  coordinates: -123.47829,47.46438
+  title: Darkness Falls
+  description: The agents become trapped in a forest where thirty loggers strangely disappeared, with the same fate eerily approaching them.
+  link: https://en.wikipedia.org/wiki/Darkness Falls_(The_X-Files)
+  place: Hoodsport, Washington
+- season: 1
+  episode: 21
+  coordinates: -76.612189,39.290385
+  title: Tooms
+  description: 'Eugene Victor Tooms - a limb-stretching serial killer who Mulder previously captured - is released from prison and set free against Mulder''s advice.'
+  link: https://en.wikipedia.org/wiki/Tooms_(The_X-Files)
+  place: Baltimore, Maryland
+- season: 1
+  episode: 22
+  coordinates: -78.878369,42.886447
+  title: Born Again
+  description: The agents investigate an eight year old girl who is associated with the killings of two policemen that Mulder suspects murdered her past reincarnation, police officer Charlie Morris.
+  link: https://en.wikipedia.org/wiki/Born Again_(The_X-Files)
+  place: Buffalo, New York
+- season: 1
+  episode: 23
+  coordinates: -117.597656,48.246138
+  title: Roland
+  description: 'The agents encounter a mentally handicapped janitor who is the only suspect in the murders of two propulsion research scientists, but the evidence of advanced theoretical work astounds Mulder and Scully as to the killer''s real identity.'
+  link: https://en.wikipedia.org/wiki/Roland_(The_X-Files)
+  place: Chewelah, Washington
+- season: 1
+  episode: 24
+  coordinates: -77.20137,39.143441
+  title: The Erlenmeyer Flask
+  description: The agents discover evidence of secret government experimentation with alien DNA, but the evidence and everyone who has seen it are quickly being eliminated.
+  link: https://en.wikipedia.org/wiki/The Erlenmeyer Flask_(The_X-Files)
+  place: Gaithersburg, Maryland
+- season: 2
+  episode: 1
+  coordinates: -66.715731,18.472445
+  title: Little Green Men
+  description: With the X-files closed, Mulder is contacted by a political ally and sent on a dangerous mission to a radio telescope in Arecibo, Puerto Rico.
+  link: https://en.wikipedia.org/wiki/Little Green Men_(The_X-Files)
+  place: Arecibo, Puerto Rico
+- season: 2
+  episode: 2
+  coordinates: -74.172367,40.735657
+  title: The Host
+  description: While continuing work not related to the X-files, Mulder apparently finds evidence of a giant worm-like monster in the New Jersey sewage system.
+  link: https://en.wikipedia.org/wiki/The Host_(The_X-Files)
+  place: Newark, New Jersey
+- season: 2
+  episode: 3
+  coordinates: -79.831444,41.397836
+  title: Blood
+  description: Apparently prompted by messages from digital appliances with instructions to kill, several residents of a small farming community suddenly turn violent and dangerous.
+  link: https://en.wikipedia.org/wiki/Blood_(The_X-Files)
+  place: Franklin, Pennsylvania
+- season: 2
+  episode: 4
+  coordinates: -74.005973,40.714353
+  title: Sleepless
+  description: A new partner joins Mulder as he investigates the deaths of several victims who were killed by apparently nonexistent forces.
+  link: https://en.wikipedia.org/wiki/Sleepless_(The_X-Files)
+  place: New York, New York
+- season: 2
+  episode: 5
+  coordinates: -80.779793,37.047898
+  title: Duane Barry
+  description: Mulder becomes involved in a hostage situation with an escaped psychiatric patient who claims to be terrified of frequent alien abductions. Part 1 of 2.
+  link: https://en.wikipedia.org/wiki/Duane Barry_(The_X-Files)
+  place: Pulaski, Virginia
+- season: 2
+  episode: 6
+  coordinates: -77.978885,38.579845
+  title: Ascension
+  description: Mulder attempts to search for Scully when she is abducted by Duane Barry, the escaped mental patient who recently held Mulder hostage. Part 2 of 2.
+  link: https://en.wikipedia.org/wiki/Ascension_(The_X-Files)
+  place: Rixeyville, Virginia
+- season: 2
+  episode: 7
+  coordinates: -118.243685,34.052234
+  title: 3
+  description: 'With Scully missing, Mulder closes in on an ''Unholy Trinity'' of vampiresque killers and finds himself falling for a mysterious woman who is the prime suspect.'
+  link: https://en.wikipedia.org/wiki/3_(The_X-Files)
+  place: Los Angeles, California
+- season: 2
+  episode: 8
+  coordinates: -77.036366,38.895112
+  title: One Breath
+  description: Scully miraculously appears in a Washington DC hospital, unknowingly supervised by a nurse who may never have existed.
+  link: https://en.wikipedia.org/wiki/One Breath_(The_X-Files)
+  place: Washington, DC
+- season: 2
+  episode: 9
+  coordinates: -121.3848564,44.061115
+  title: Firewalker
+  description: When a moving shadow appears on a video transmission from a volcano, a volcanologist asks Mulder and Scully to investigate the incident.
+  link: https://en.wikipedia.org/wiki/Firewalker_(The_X-Files)
+  place: Bend, Oregon
+- season: 2
+  episode: 10
+  coordinates: -87.979181,43.158028
+  title: Red Museum
+  description: The agents investigate a suggested link between a religious cult of vegetarians and the abduction of several teenagers, although they find that the disappearances are actually connected to a deadly event in their own past.
+  link: https://en.wikipedia.org/wiki/Red Museum_(The_X-Files)
+  place: Milwaukee, Wisconsin
+- season: 2
+  episode: 11
+  coordinates: -71.802293,42.262593
+  title: Excelsis Dei
+  description: Mulder and Scully uncover strange occurrences in an old-age care home when one of the nurses is attacked by an unseen force she claims to be one of the residents, a 74 year old man.
+  link: https://en.wikipedia.org/wiki/Excelsis Dei_(The_X-Files)
+  place: Worcester, Massachusetts
+- season: 2
+  episode: 12
+  coordinates: -92.802604,37.943663
+  title: Aubrey
+  description: When a detective mysteriously uncovers the remains of an FBI agent who disappeared in the 1940s while investigating a murder case similar to a modern-day one she is investigating, Mulder and Scully believe that the original killer had passed his genetic trait of violence to his grandchild.
+  link: https://en.wikipedia.org/wiki/Aubrey_(The_X-Files)
+  place: Camdenton, Missouri
+- season: 2
+  episode: 13
+  coordinates: -93.26667,44.983334
+  title: Irresistible
+  description: A mortuary worker who collects hair and fingernails from dead bodies begins to kill people to expand his collection, and he sets his sights on Scully.
+  link: https://en.wikipedia.org/wiki/Irresistible_(The_X-Files)
+  place: Minneapolis, Minnesota
+- season: 2
+  episode: 14
+  coordinates: -71.572395,43.193852
+  title: Die Hand Die Verletzt
+  description: After a teenager is ritualistically murdered in a small town, Mulder and Scully are caught up in a secret occult practice within the local PTA and a substitute teacher with odd powers.
+  link: https://en.wikipedia.org/wiki/Die Hand Die Verletzt_(The_X-Files)
+  place: Concord, New Hampshire
+- season: 2
+  episode: 15
+  coordinates: -77.504134,34.536555
+  title: Fresh Bones
+  description: After several murders occur within a Haitian refugee camp, Mulder and Scully are caught in the middle of a secret battle involving a Voodoo priest and the camp commander.
+  link: https://en.wikipedia.org/wiki/Fresh Bones_(The_X-Files)
+  place: Holly Ridge, North Carolina
+- season: 2
+  episode: 16
+  coordinates: -75.662412,41.408969
+  title: Colony
+  description: After four identical men are killed and their obituaries are e-mailed to Mulder, a mysterious CIA agent informs him and Scully that the killer is a bounty hunter sent to destroy the start of a colony of clones. Meanwhile, Mulder is distracted when his sister, Samantha, suddenly returns. Part 1 of 2.
+  link: https://en.wikipedia.org/wiki/Colony_(The_X-Files)
+  place: Scranton, Pennsylvania
+- season: 2
+  episode: 17
+  coordinates: 
+    - -77.152758,39.083997
+    - -137.8125,83.183778
+  title: End Game
+  description: Mulder and his sister race to evade the alien bounty hunter and uncover more of the insidious conspiracy.
+  link: https://en.wikipedia.org/wiki/End Game_(The_X-Files)
+  place: 
+    - Rockville, Maryland
+    - Beaufort Sea
+- season: 2
+  episode: 18
+  coordinates: -114.791728,43.346568
+  title: Fearful Symmetry
+  description: Strange things happen in a zoo that result in several deaths, including a government employee and apparently an invisible elephant.
+  link: https://en.wikipedia.org/wiki/Fearful Symmetry_(The_X-Files)
+  place: Fairfield, Idaho
+- season: 2
+  episode: 19
+  coordinates: 8, 65
+  title: Død Kalm
+  description: 'In the North Atlantic, Mulder and Scully investigate the crew of a US Navy Ship, all of whom somehow radically aged. The agents locate the ship but, like the vessel''s crew before them, Mulder and Scully also suffer from rapid aging.'
+  link: https://en.wikipedia.org/wiki/Død_Kalm_(The_X-Files)
+  place: Norwegian Sea
+- season: 2
+  episode: 20
+  coordinates: -82.382593,27.853637
+  title: Humbug
+  description: A bizarre murder in Florida brings Mulder and Scully to a town populated by circus freaks and sideshows performers of all shapes and sizes, bringing into question the very definition of normal.
+  link: https://en.wikipedia.org/wiki/Humbug_(The_X-Files)
+  place: Gibsonton, Florida
+- season: 2
+  episode: 21
+  coordinates: -78.657603,38.010922
+  title: The Calusari
+  description: 'With Scully''s help, Mulder investigates a strange death that he believes may be an example of poltergeist activity.'
+  link: https://en.wikipedia.org/wiki/The Calusari_(The_X-Files)
+  place: Charlottesville, Virginia
+- season: 2
+  episode: 22
+  coordinates: 
+    - -77.653612,37.076904
+    - -85.354965,10.495797
+  title: F. Emasculata
+  description: After several men in a prison die of a mysterious illness, Scully tries to discover the cause while Mulder attempts to find two escapees who could potentially spread the disease.
+  link: https://en.wikipedia.org/wiki/F. Emasculata_(The_X-Files)
+  place: 
+    - Dewitt, Virginia
+    - Costa Rica
+- season: 2
+  episode: 23
+  coordinates: -77.436048,37.540725
+  title: Soft Light
+  description: Mulder and Scully encounter a man who is afraid of his own shadow.
+  link: https://en.wikipedia.org/wiki/Soft Light_(The_X-Files)
+  place: Richmond, Virginia
+- season: 2
+  episode: 24
+  coordinates: -91.898629,34.456781
+  title: Our Town
+  description: Mulder and Scully investigate the disappearance of man in a town where the residents really are what they eat.
+  link: https://en.wikipedia.org/wiki/Our Town_(The_X-Files)
+  place: Tucker, Arkansas
+- season: 2
+  episode: 25
+  coordinates: -109.759167,36.138404
+  title: Anasazi
+  description: A computer hacker discovers evidence against the Syndicate that is so damning that its revelation to the public would be nothing short of catastrophic, leading Mulder into a race against sinister agents to learn the truth. Part 1 of 3
+  link: https://en.wikipedia.org/wiki/Anasazi_(The_X-Files)
+  place: Chinle, Arizona
+- season: 3
+  episode: 1
+  coordinates: -108.7192992,35.0239218
+  title: The Blessing Way
+  description: As Navajo Indians try to save Mulder from death, Scully comes to terms with her assumption that he has already died and is warned that her own life is in danger. Part 2 of 3.
+  link: https://en.wikipedia.org/wiki/The Blessing Way_(The_X-Files)
+  place: Two Grey Hills, New Mexico
+- season: 3
+  episode: 2
+  coordinates: 
+    - -76.641271,39.045755
+    - -78.439636,38.487421
+  title: Paper Clip
+  description: 'After Mulder and Scully are reunited, they investigate a photograph that seems to connect Mulder''s father to experiments that were conducted after World War II but used scientific knowledge from Nazi Germany. Part 3 of 3.'
+  link: https://en.wikipedia.org/wiki/Paper Clip_(The_X-Files)
+  place: 
+    - Millersville, Maryland
+    - Syria, Virginia
+- season: 3
+  episode: 3
+  coordinates: -96.636115,34.447592
+  title: D.P.O.
+  description: Mulder and Scully investigate the deaths of several people who were struck by lightning.
+  link: https://en.wikipedia.org/wiki/D.P.O._(The_X-Files)
+  place: Connerville, Oklahoma
+- season: 3
+  episode: 4
+  coordinates: -93.201,44.937483
+  title: 'Clyde Bruckman''s Final Repose'
+  description: Mulder and Scully receive help in a murder case from a reluctant psychic.
+  link: 'https://en.wikipedia.org/wiki/Clyde Bruckman''s Final Repose_(The_X-Files)'
+  place: Minneapolis, Minnesota
+- season: 3
+  episode: 5
+  coordinates: -84.185711,30.490618
+  title: The List
+  description: A man about to be executed by electric chair vows to return to kill five men who wronged him in prison.
+  link: https://en.wikipedia.org/wiki/The List_(The_X-Files)
+  place: Tallahassee, Florida
+- season: 3
+  episode: 6
+  coordinates: -81.695409,41.499495
+  title: 2Shy
+  description: Several women disappear after meeting someone in Internet chat rooms.
+  link: https://en.wikipedia.org/wiki/2Shy_(The_X-Files)
+  place: Cleveland, Ohio
+- season: 3
+  episode: 7
+  coordinates: -77.0725,38.896667
+  title: The Walk
+  description: The astral projection of a soldier begins killing several people in and around a military hospital, apparently in search of revenge.
+  link: https://en.wikipedia.org/wiki/The Walk_(The_X-Files)
+  place: Arlington, Virginia
+- season: 3
+  episode: 8
+  coordinates: -122.332071,47.60621
+  title: Oubliette
+  description: A young girl is kidnapped and appears to have a psychic connection to a woman who was kidnapped many years before that manifests in mirrored actions miles away.
+  link: https://en.wikipedia.org/wiki/Oubliette_(The_X-Files)
+  place: Seattle, Washington
+- season: 3
+  episode: 9
+  coordinates: -83.920739,35.960638
+  title: Nisei
+  description: 'Investigating a video of an alien autopsy, Mulder and Scully find evidence that Japanese scientists brought to America after the Second World War may have been involved in Scully''s abduction Part 1 of 2.'
+  link: https://en.wikipedia.org/wiki/Nisei_(The_X-Files)
+  place: Knoxville, Tennessee
+- season: 3
+  episode: 10
+  coordinates: 
+    - -76.473012,37.087082
+    - -80.454903,38.597626
+  title: 731
+  description: Mulder is trapped on a train carriage with a ticking bomb and a killer who claims to be an NSA agent. Part 2 of 2.
+  link: https://en.wikipedia.org/wiki/731_(The_X-Files)
+  place: 
+    - Newport News, Virginia
+    - Diana, West Virginia
+- season: 3
+  episode: 11
+  coordinates: -80.17923,39.896464
+  title: Revelations
+  description: Mulder and Scully investigate a series of murders that may be related to stigmata and Scully questions her faith.
+  link: https://en.wikipedia.org/wiki/Revelations_(The_X-Files)
+  place: Waynesburg, Pennsylvania
+- season: 3
+  episode: 12
+  coordinates: -71.154623,41.786653
+  title: War of the Coprophages
+  description: Mulder gets caught up investigating what could be super-human cockroaches with metal bodies
+  link: https://en.wikipedia.org/wiki/War of the Coprophages_(The_X-Files)
+  place: Swansea, Massachusetts
+- season: 3
+  episode: 13
+  coordinates: -109.759167,36.138404
+  title: Syzygy
+  description: Mulder and Scully investigate strange murders in New Hampshire that may be due to a rare planetary alignment.
+  link: https://en.wikipedia.org/wiki/Syzygy_(The_X-Files)
+  place: Chinle, Arizona
+- season: 3
+  episode: 14
+  coordinates: -77.048235,38.900367
+  title: Grotesque
+  description: Scully becomes very concerned as Mulder gets more and more involved with a case that may involve demonic possession.
+  link: https://en.wikipedia.org/wiki/Grotesque_(The_X-Files)
+  place: Washington, DC
+- season: 3
+  episode: 15
+  coordinates: 
+    - -171, 42
+    - -117.157255,32.715329
+  title: Piper Maru
+  description: When a diver from a French salvage ship called the Piper Maru discovers a World War II fighter plane and is the only member of his crew not exposed to harmfully extreme levels of radiation, Mulder and Scully investigate. Part 1 of 2.
+  link: https://en.wikipedia.org/wiki/Piper Maru_(The_X-Files)
+  place: 
+    - Pacific Ocean
+    - San Diego, California
+- season: 3
+  episode: 16
+  coordinates: -75.590956,38.4565
+  title: Apocrypha
+  description: The assassin who killed Scully's sister is finally captured after shooting Skinner while Mulder and Scully search for Alex Krycek, who has been infested with a strange alien parasite. Part 2 of 2.
+  link: https://en.wikipedia.org/wiki/Apocrypha_(The_X-Files)
+  place: Delmar, Maryland
+- season: 3
+  episode: 17
+  coordinates: -77.653612,39.076767
+  title: Pusher
+  description: Mulder and Scully struggle to capture a dying man who can apparently bend others to his will and convince his victims to place themselves in extreme danger.
+  link: https://en.wikipedia.org/wiki/Pusher_(The_X-Files)
+  place: Leesburg, Virginia
+- season: 3
+  episode: 18
+  coordinates: -78.183406,-1.831239
+  title: Teso Dos Bichos
+  description: When a Sokona Indian burial urn is removed from the Ecuadorian highlands, a series of unexplained deaths follows three weeks later. Mulder investigates the case with Scully and soon comes to the conclusion that the deaths were caused by a curse of the jaguar spirit.
+  link: https://en.wikipedia.org/wiki/Teso Dos Bichos_(The_X-Files)
+  place: Ecuador
+- season: 3
+  episode: 19
+  coordinates: -122.406581,37.796536
+  title: Hell Money
+  description: In Chinatown, Mulder and Scully discover an illegal lottery in which the losers are forced to donate their internal organs.
+  link: https://en.wikipedia.org/wiki/Hell Money_(The_X-Files)
+  place: San Francisco, California
+- season: 3
+  episode: 20
+  coordinates: -109.759167,36.138404
+  title: 'Jose Chung''s From Outer Space'
+  description: An alien abduction of two teenagers with different versions of the same facts prompts a science-fiction novelist to write a book about the incident. However, no one involved with the investigation can tell him the full story with any accuracy.
+  link: 'https://en.wikipedia.org/wiki/Jose Chung''s From Outer Space_(The_X-Files)'
+  place: Chinle, Arizona
+- season: 3
+  episode: 21
+  coordinates: -77.026005,38.897811
+  title: Avatar
+  description: 'During a one-night stand in the midst of his divorce, AD Skinner becomes a murder suspect. Mulder and Scully return the many favours that he has done for them by trying to determine what actually happened, all the while discovering more about Skinner''s personal affairs.'
+  link: https://en.wikipedia.org/wiki/Avatar_(The_X-Files)
+  place: Washington, DC
+- season: 3
+  episode: 22
+  coordinates: -84.138107,34.92914
+  title: Quagmire
+  description: In a small town, Mulder and Scully investigate rumors of a prehistoric lake monster called Big Blue.
+  link: https://en.wikipedia.org/wiki/Quagmire_(The_X-Files)
+  place: Blairsville, Georgia
+- season: 3
+  episode: 23
+  coordinates: -77.503598,39.418713
+  title: Wetwired
+  description: 'As the agents investigate a series of murders committed by ordinary citizens angered after seeing illusory images, Scully''s trust in Mulder is put to the ultimate test.'
+  link: https://en.wikipedia.org/wiki/Wetwired_(The_X-Files)
+  place: Frederick, Maryland
+- season: 3
+  episode: 24
+  coordinates: 
+    - -77.10677,38.87997
+    - -71.713914,41.339544
+  title: Talitha Cumi
+  description: While Scully researches a man with extraordinary healing abilities named Jeremiah Smith, Mulder finds evidence of a deadly alien bounty hunter.
+  link: https://en.wikipedia.org/wiki/Talitha Cumi_(The_X-Files)
+  place: 
+    - Arlington, Virginia
+    - Charlestown, Rhode Island
+- season: 4
+  episode: 1
+  coordinates: 
+    - -116.576503,53.933271
+    - -76.896151,39.105454
+  title: Herrenvolk
+  description: To save his dying mother, Mulder must protect the extraterrestrial healer, Jeremiah Smith, from a ruthless alien bounty hunter.
+  link: https://en.wikipedia.org/wiki/Herrenvolk_(The_X-Files)
+  place: 
+    - Yellowhead County, Alberta
+    - Laurel, Maryland
+- season: 4
+  episode: 2
+  coordinates: -79.105652,40.738735
+  title: Home
+  description: In a small, otherwise peaceful town, the agents investigate the death of an infant with disturbing birth defects, and the trail leads to a clan of inbred, genetic mutants.
+  link: https://en.wikipedia.org/wiki/Home_(The_X-Files)
+  place: Home, Pennsylvania
+- season: 4
+  episode: 3
+  coordinates: -75.173264,39.94863
+  title: Teliko
+  description: When several black men turn up dead, their bodies are completely devoid of skin pigmentation. Mulder and Scully hunt down an African killer, who must consume human hormones to survive.
+  link: https://en.wikipedia.org/wiki/Teliko_(The_X-Files)
+  place: Philadelphia, Pennsylvania
+- season: 4
+  episode: 4
+  coordinates: 
+    - -85.620632,44.763057
+    - -84.786587,41.832609
+  title: Unruhe
+  description: To catch a twisted killer, Mulder and Scully attempt to decipher the clues he unwittingly leaves behind; psychic photographs revealing his darkest fears.
+  link: https://en.wikipedia.org/wiki/Unruhe_(The_X-Files)
+  place: 
+    - Traverse City, Michigan
+    - Reading, Michigan
+- season: 4
+  episode: 5
+  coordinates: -85.024292,35.0228
+  title: The Field Where I Died
+  description: While investigating a religious cult, Mulder encounters a woman whom he may have known in a previous life.
+  link: https://en.wikipedia.org/wiki/The Field Where I Died_(The_X-Files)
+  place: Apison, Tennessee
+- season: 4
+  episode: 6
+  coordinates: -87.629798,41.878114
+  title: Sanguinarium
+  description: A series of murders at a prestigious hospital lead Mulder and Scully on the trail of a plastic surgeon who may be attempting to extend his own life through black magic.
+  link: https://en.wikipedia.org/wiki/Sanguinarium_(The_X-Files)
+  place: Chicago, Illinois
+- season: 4
+  episode: 7
+  coordinates: 
+    - -118.157766,34.161552
+    - -78.999167,35.139167
+    - -96.800451,32.78014
+    - -90.04898,35.149534
+  title: Musings of a Cigarette Smoking Man
+  description: 'The secret history of Mulder and Scully''s shadowy nemesis reveals the truth behind several historical mysteries'
+  link: https://en.wikipedia.org/wiki/Musings of a Cigarette Smoking Man_(The_X-Files)
+  place: 
+    - Pasadena, California
+    - Fort Bragg, North Carolina
+    - Dallas, Texas
+    - Memphis, Tennessee 
+- season: 4
+  episode: 8
+  coordinates: 
+    - 102.78624,52.6527
+    - -157.921418,21.332898
+    - -73.833084,40.765809
+  title: Tunguska
+  description: 'When a deadly, viscous organism is discovered inside a strange rock, the agents race to determine the rock''s origin. Part 1 of 2.'
+  link: https://en.wikipedia.org/wiki/Tunguska_(The_X-Files)
+  place: 
+    - Russia
+    - Honolulu, Hawaii
+    - Flushing, New York
+- season: 4
+  episode: 9
+  coordinates: 
+    - -80.083098,26.358689
+    - -76.875528,39.004554
+    - -77.445803,37.545784
+    - -78.476678,38.029306
+    - 30.312021,59.939524
+  title: Terma
+  description: To gain tangible proof the organism inside the rock is an alien entity, Mulder joins forces with Alex Krycek and faces the depths of his deception. Part 2 of 2.
+  link: https://en.wikipedia.org/wiki/Terma_(The_X-Files)
+  place: 
+    - Boca Raton, Florida
+    - Greenbelt, Maryland
+    - Richmond, Virginia
+    - Charlottesville, Virginia
+    - Sankt-Peterburg, Russia
+- season: 4
+  episode: 10
+  coordinates: 
+    - -77.475267,38.750949
+    - -75.339905,40.121497
+  title: Paper Hearts
+  description: Seemingly prophetic dreams send Mulder on a search for the undiscovered victims of a serial killer.
+  link: https://en.wikipedia.org/wiki/Paper Hearts_(The_X-Files)
+  place: 
+    - Manassas, Virginia
+    - Norristown, Pennsylvania
+- season: 4
+  episode: 11
+  coordinates: 
+    - -120.007125,36.688966
+    - -119.772587,36.746842
+  title: El Mundo Gira
+  description: After a series of paranormal deaths occur at a Mexican migrant camp, Mulder and Scully trail the mythical creature known as El Chupacabra.
+  link: https://en.wikipedia.org/wiki/El Mundo Gira_(The_X-Files)
+  place: 
+    - Fresno, California
+    - Fresno, California
+- season: 4
+  episode: 12
+  coordinates: -79.995886,40.440625
+  title: Leonard Betts
+  description: The agents suspect a man to be an evolutionary freak capable of regeneration.
+  link: https://en.wikipedia.org/wiki/Leonard Betts_(The_X-Files)
+  place: Pittsburgh, Pennsylvania
+- season: 4
+  episode: 13
+  coordinates: -75.155067,39.943366
+  title: Never Again
+  description: Scully begins dating a dangerous stranger whose jealous tattoo compels him to murder the women he encounters.
+  link: https://en.wikipedia.org/wiki/Never Again_(The_X-Files)
+  place: Philadelphia, Pennsylvania
+- season: 4
+  episode: 14
+  coordinates: -75.490183,40.608431
+  title: Memento Mori
+  description: Scully attempts to come to terms with her inoperable cancer, while Mulder and the Lone Gonemen race to find the cure.
+  link: https://en.wikipedia.org/wiki/Memento Mori_(The_X-Files)
+  place: Allentown, Pennsylvania
+- season: 4
+  episode: 15
+  coordinates: -73.95,40.65
+  title: Kaddish
+  description: While investigating a hate crime in a Hasidic Jewish community, the agents uncover a murder that appears to have been committed by a dead man.
+  link: https://en.wikipedia.org/wiki/Kaddish_(The_X-Files)
+  place: Brooklyn, New York
+- season: 4
+  episode: 16
+  coordinates: -77.463501,39.069005
+  title: Unrequited
+  description: Mulder and Scully must apprehend an embittered Vietnam vet who can make himself invisible to his victims.
+  link: https://en.wikipedia.org/wiki/Unrequited_(The_X-Files)
+  place: Ashburn, Virginia
+- season: 4
+  episode: 17
+  coordinates: -74.172077,43.225627
+  title: Tempus Fugit
+  description: The agents investigate the unexplained crash of a commercial airliner. Part 1 of 2.
+  link: https://en.wikipedia.org/wiki/Tempus Fugit_(The_X-Files)
+  place: Northville, New York
+- season: 4
+  episode: 18
+  coordinates: 
+    - -75.817695,43.817012
+    - -74.172077,43.225627
+  title: Max
+  description: Mulder and Scully set out to prove the passengers aboard the airliner were sacrificed by the military in pursuit of stolen alien technology. Part 2 of 2.
+  link: https://en.wikipedia.org/wiki/Max_(The_X-Files)
+  place: 
+    - Copenhagen, New York
+    - Northville, New York
+- season: 4
+  episode: 19
+  coordinates: -71.09122,42.358449
+  title: Synchrony
+  description: When several scientists are found frozen to death, Mulder and Scully suspect the murders were committed by a time traveller.
+  link: https://en.wikipedia.org/wiki/Synchrony_(The_X-Files)
+  place: Cambridge, Massachusetts
+- season: 4
+  episode: 20
+  coordinates: -77.963887,39.45621
+  title: Small Potatoes
+  description: A town is placed under suspicion when its babies are born with vestigial tails.
+  link: https://en.wikipedia.org/wiki/Small Potatoes_(The_X-Files)
+  place: Martinsburg, West Virginia
+- season: 4
+  episode: 21
+  coordinates: -79.186006,37.321167
+  title: Zero Sum
+  description: 'Trapped in a deal to save Scully''s life, Skinner helps the cigarette-smoking man destroy evidence in a fatal bee attack, only to discover he''s been framed for murder.'
+  link: https://en.wikipedia.org/wiki/Zero Sum_(The_X-Files)
+  place: Lynchburg, Virginia
+- season: 4
+  episode: 22
+  coordinates: -77.035961,38.891532
+  title: Elegy
+  description: When ghostly images of female victims appear near murder scenes, the apparitions may be harbingers of death for those who see them.
+  link: https://en.wikipedia.org/wiki/Elegy_(The_X-Files)
+  place: Washington, DC
+- season: 4
+  episode: 23
+  coordinates: -71.416304,41.82504
+  title: Demons
+  description: Covered in blood and suffering from amnesia, Mulder pieces together the events of the last few days.
+  link: https://en.wikipedia.org/wiki/Demons_(The_X-Files)
+  place: Providence, Rhode Island
+- season: 4
+  episode: 24
+  coordinates: -135,64.282327
+  title: Gethsemane
+  description: Mulder fights to prove that a discovery frozen in the mountains of Canada is irrefutable evidence of alien life.
+  link: https://en.wikipedia.org/wiki/Gethsemane_(The_X-Files)
+  place: Saint Elias Mountains
+- season: 5
+  episode: 1
+  coordinates: -77.044716,38.893269
+  title: Redux
+  description: 'Scully helps Mulder to fake his own death in an effort to discover which members of the FBI they can trust before the agents individually search for an answer to Scully''s cancer.'
+  link: https://en.wikipedia.org/wiki/Redux_(The_X-Files)
+  place: Washington, DC
+- season: 5
+  episode: 2
+  coordinates: -77.028408,38.889394
+  title: Redux II
+  description: 'With Scully hospitalized, Mulder is offered a deal to join the Cigarette-Smoking Man and is told by Section Chief Blevins to name Assistant Director Skinner as the man responsible for Scully''s cancer at a forthcoming FBI hearing. When Mulder instead names Blevins, both the Section Chief and the Cigarette-Smoking Man are shot, before Scully begins to recover.'
+  link: https://en.wikipedia.org/wiki/Redux II_(The_X-Files)
+  place: Washington, DC
+- season: 5
+  episode: 3
+  coordinates: -76.624146,39.290433
+  title: Unusual Suspects
+  description: Two salesmen and a federal employee join forces when they meet Susanne Modeski, a woman who claims that she is being pursued by her violent ex-boyfriend, Fox Mulder.
+  link: https://en.wikipedia.org/wiki/Unusual Suspects_(The_X-Files)
+  place: Baltimore, Maryland
+- season: 5
+  episode: 4
+  coordinates: -84.185711,30.490618
+  title: Detour
+  description: While traveling to a conference with Scully and two other FBI agents, Mulder stops at a roadblock to join a nearby inspection of attacks by an unidentified predator.
+  link: https://en.wikipedia.org/wiki/Detour_(The_X-Files)
+  place: Tallahassee, Florida
+- season: 5
+  episode: 5
+  coordinates: -93.032227,40.971051
+  title: The Post-Modern Prometheus
+  description: 'In some midwestern town...filmed in black-and-white, The Post-Modern Prometheus chronicles Mulder and Scully''s investigation when a letter from a single mother leads them to a small mid-Western town where a modern-day Frankenstein lurks, Jerry Springer is an obsession, and Cher plays a significant part.'
+  link: https://en.wikipedia.org/wiki/The Post-Modern Prometheus_(The_X-Files)
+  place: Melrose, Iowa
+- season: 5
+  episode: 6
+  coordinates: -117.16198,32.713119
+  title: Christmas Carol
+  description: 'While Scully and her mother stay with Dana''s brother and his pregnant wife at Christmas time, Scully recieves several weird phone calls that she thinks might be from her deceased sister. She also becomes involved in an investigation of a woman''s alleged suicide, believing that the victim was actually murdered, and learns that the departed woman''s young adopted daughter is apparently her own offspring.'
+  link: https://en.wikipedia.org/wiki/Christmas Carol_(The_X-Files)
+  place: San Diego, California
+- season: 5
+  episode: 7
+  coordinates: -117.149277,32.714636
+  title: Emily
+  description: Scully comes to terms with the shocking revelation that a mysterious little girl is her daughter, although the details surrounding her creation are horrifically sinister and unforgiving.
+  link: https://en.wikipedia.org/wiki/Emily_(The_X-Files)
+  place: San Diego, California
+- season: 5
+  episode: 8
+  coordinates: 
+    - -77.22776,38.704282
+    - -77.197173,38.83397
+  title: Kitsunegari
+  description: When an influential former killer who was arrested by Mulder and Scully escapes, the agents search for him but discover that he is not their only concern.
+  link: https://en.wikipedia.org/wiki/Kitsunegari_(The_X-Files)
+  place: 
+    - Lorton, Virginia
+    - Annandale, Virginia
+- season: 5
+  episode: 9
+  coordinates: -69.445469,45.253783
+  title: Schizogeny
+  description: Mulder and Scully investigate a case involving the deaths of several fathers who seem to have been murdered by their son or daughter but the agents learn that the real killer may in fact have an ability to control nature itself.
+  link: https://en.wikipedia.org/wiki/Schizogeny_(The_X-Files)
+  place: Monson, Maine
+- season: 5
+  episode: 10
+  coordinates: -71.608887,41.415818
+  title: Chinga
+  description: Scully tries to take a weekend vacation to Maine but ends up investigating a strange case in which a seemingly murderous doll has apparently caused several victims to inflict wounds upon themselves.
+  link: https://en.wikipedia.org/wiki/Chinga_(The_X-Files)
+  place: Charlestown, Rhode Island
+- season: 5
+  episode: 11
+  coordinates: -76.994591,38.913939
+  title: Kill Switch
+  description: The brutal murder of a reknowned computer programmer leads Mulder and Scully to investigate an artificial intelligence program loose on the internet that has begun evolving on its own.
+  link: https://en.wikipedia.org/wiki/Kill Switch_(The_X-Files)
+  place: Washington, DC
+- season: 5
+  episode: 12
+  coordinates: -98.823011,32.391371
+  title: Bad Blood
+  description: After Mulder kills a teenage boy who he believed was a vampire, he and Scully recount the events that led to the killing.
+  link: https://en.wikipedia.org/wiki/Bad Blood_(The_X-Files)
+  place: Eastland, Texas
+- season: 5
+  episode: 13
+  coordinates: 
+    - 66.923684,48.019573
+    - -78.656894,37.431573
+  title: Patient X
+  description: As a rebel alien race secretly attacks several groups of former abductees, the agents meet Cassandra Spender, a woman who claims to be a multiple abductee and wants to deliver a positive message about aliens, but Mulder, now skeptical about extraterrestrial activity and suspecting that the government is behind the abduction phenomena, is disturbed when Scully forms a special bond with the woman.
+  link: https://en.wikipedia.org/wiki/Patient X_(The_X-Files)
+  place: 
+    - Kazakhstan
+    - Dillwyn, Virginia
+- season: 5
+  episode: 14
+  coordinates: 
+    - -77.194525,41.203322
+    - -77.033386,38.915845
+  title: The Red and the Black
+  description: After Scully and Cassandra Spender disappeared, Scully is recovered, having survived an attack on a group of abductees, and is placed under hypnosis to discover what really happened while Cassandra Spender remains missing.
+  link: https://en.wikipedia.org/wiki/The Red and the Black_(The_X-Files)
+  place: 
+    - Linden, Pennsylvania
+    - Washington, DC
+- season: 5
+  episode: 15
+  coordinates: 
+    - -87.924248,42.807796
+    - -77.077205,38.994915
+  title: Travelers
+  description: A young Fox Mulder visits retired FBI Agent Arthur Dales, who tells him about one of the first X-Files, a case that his father was involved in.
+  link: https://en.wikipedia.org/wiki/Travelers_(The_X-Files)
+  place: 
+    - Caledonia, Wisconsin
+    - Chevy Chase, Maryland
+- season: 5
+  episode: 16
+  coordinates: -75.546667,39.745833
+  title: 'Mind''s Eye'
+  description: Mulder and Scully investigate a murder for whom the primary suspect is a woman who has been blind from birth, and who may have a strange connection to the real killer.
+  link: 'https://en.wikipedia.org/wiki/Mind''s Eye_(The_X-Files)'
+  place: Wilmington, Delaware
+- season: 5
+  episode: 17
+  coordinates: -77.042913,38.807258
+  title: All Souls
+  description: Scully is forced to fall back on her Catholic faith and confront the loss of her daughter Emily after her priest asks her to assist a family whose adopted daughter died.
+  link: https://en.wikipedia.org/wiki/All Souls_(The_X-Files)
+  place: Alexandria, Virginia
+- season: 5
+  episode: 18
+  coordinates: 
+    - -77.002646,38.884699
+    - -82.907123,40.417287
+    -  -75.187637,38.669338
+  title: The Pine Bluff Variant
+  description: Scully fears that Mulder has committed treason when she witnesses him aiding the escape of a suspected terrorist. In reality, he has gone undercover to infiltrate a terrorist organization that has gotten its hands on a deadly biological weapon.
+  link: https://en.wikipedia.org/wiki/The Pine Bluff Variant_(The_X-Files)
+  place: 
+    - Washington, DC
+    - Marengo, Ohio
+    - Millsboro, Delaware
+- season: 5
+  episode: 19
+  coordinates: -87.953553,41.839787
+  title: Folie a Deux
+  description: Mulder, along with several other people, is held hostage by an office employee who is convinced that his boss is a monster who has turned several of his co-workers into zombies. When the ordeal ends, Mulder also believes, despite his initial skepticism, that the man was not simply crazy, and that the boss actually is a monster.
+  link: https://en.wikipedia.org/wiki/Folie a Deux_(The_X-Files)
+  place: Oak Brook, Illinois
+- season: 5
+  episode: 20
+  coordinates: 
+    - -123.113927,49.261226
+    - -70.833333,47.316667
+    - -77.191315,39.151558
+  title: The End
+  description: Investigating the murder of a chess player, Mulder and Scully meet a boy who may be the embodiment of everything in the X-Files.
+  link: https://en.wikipedia.org/wiki/The End_(The_X-Files)
+  place: 
+    - Vancouver, British Columbia
+    - Lac-Jacques-Cartier, Quebec
+    - Gaithersburg, Maryland
+- season: 6
+  episode: 1
+  coordinates: -112.074037,33.448377
+  title: The Beginning
+  description: Just after having returned from Antartica, Mulder and Scully conduct an unofficial search for a vicious alien in Phoenix, Arizona.
+  link: https://en.wikipedia.org/wiki/The Beginning_(The_X-Files)
+  place: Phoenix, Arizona
+- season: 6
+  episode: 2
+  coordinates: -115.763123,40.832421
+  title: Drive
+  description: 'Mulder finds himself forced to drive a man in a high-speed dash across the Southwest in an effort to prevent the man''s head from exploding.'
+  link: https://en.wikipedia.org/wiki/Drive_(The_X-Files)
+  place: Elko, Nevada
+- season: 6
+  episode: 3
+  coordinates: -64, 28
+  title: Triangle
+  description: Lost in the Bermuda Triangle, Mulder believes he has traveled back to 1939 and has to evade Nazis aboard an historic British sailing ship similarly lost, encountering individuals who seem strikingly familiar to him.
+  link: https://en.wikipedia.org/wiki/Triangle_(The_X-Files)
+  place: Bermuda Triangle
+- season: 6
+  episode: 4
+  coordinates: -115.819102,37.241954
+  title: Dreamland
+  description: 'On a tip, Mulder and Scully visit the infamous Area 51 where a strange event swaps Mulder''s personality with that of Morris Fletcher, a shadowy government agent.'
+  link: https://en.wikipedia.org/wiki/Dreamland_(The_X-Files)
+  place: Area 51
+- season: 6
+  episode: 5
+  coordinates: -115.7603325,37.6447181
+  title: Dreamland II
+  description: 'Scully desperately tries to reverse the personality switch between Mulder and Morris Fletcher before it''s too late.'
+  link: https://en.wikipedia.org/wiki/Dreamland II_(The_X-Files)
+  place: Rachel, Nevada
+- season: 6
+  episode: 6
+  coordinates: -77.016907,39.539493
+  title: How the Ghosts Stole Christmas
+  description: Somewhere in Maryland...On Christmas Eve, Mulder and Scully go ghost-hunting in a supposedly haunted house full of Christmas spirit.
+  link: https://en.wikipedia.org/wiki/How the Ghosts Stole Christmas_(The_X-Files)
+  place: Westminster, Maryland
+- season: 6
+  episode: 7
+  coordinates: -79.943095,37.341246
+  title: Terms of Endearment
+  description: Mulder believes that a bigamist, suspected of pre-natal infanticide, is actually a demon.
+  link: https://en.wikipedia.org/wiki/Terms of Endearment_(The_X-Files)
+  place: Roanoke, Virginia
+- season: 6
+  episode: 8
+  coordinates: -95.66615,37.330231
+  title: The Rain King
+  description: A man in Kansas claims to be able to command the weather and appears to be the real deal.
+  link: https://en.wikipedia.org/wiki/The Rain King_(The_X-Files)
+  place: Independence, Kansas
+- season: 6
+  episode: 9
+  coordinates: -77.007294,38.903787
+  title: S.R. 819
+  description: Skinner is infected with a strange disease triggered by nanotechnology in his body.
+  link: https://en.wikipedia.org/wiki/S.R. 819_(The_X-Files)
+  place: Washington, DC
+- season: 6
+  episode: 10
+  coordinates: -73.98262,40.713366
+  title: Tithonus
+  description: Scully is partnered with another agent and assigned to investigate a crime scene photographer but her encounter with him leads to deathly consequences for them both.
+  link: https://en.wikipedia.org/wiki/Tithonus_(The_X-Files)
+  place: New York, New York
+- season: 6
+  episode: 11
+  coordinates: -77.046372,38.831636
+  title: Two Fathers
+  description: 'The unexpected return of Cassandra Spender and an attack by alien rebels forces the Syndicate''s hand in a move that threatens the survival of their carefully-crafted conspiracy.'
+  link: https://en.wikipedia.org/wiki/Two Fathers_(The_X-Files)
+  place: Alexandria, Virginia
+- season: 6
+  episode: 12
+  coordinates: -77.047119,38.92132
+  title: One Son
+  description: 'The unexpected return of Cassandra Spender and an attack by alien rebels forces the Syndicate''s hand in a move that threatens the survival of their carefully-crafted conspiracy.'
+  link: https://en.wikipedia.org/wiki/One Son_(The_X-Files)
+  place: Washington, DC
+- season: 6
+  episode: 13
+  coordinates: -81.645641,25.924821
+  title: Agua Mala
+  description: Stranded in the middle of a hurricane in Florida, Mulder and Scully seek shelter in an apartment building, not knowing that a tentacled monster is terrorising the residents.
+  link: https://en.wikipedia.org/wiki/Agua Mala_(The_X-Files)
+  place: Goodland, Florida
+- season: 6
+  episode: 14
+  coordinates: -77.017078,38.900349
+  title: Monday
+  description: A woman is trapped in an endlessly repeating time loop that ends in a tragic bombing in which Mulder and Scully lose their lives every time.
+  link: https://en.wikipedia.org/wiki/Monday_(The_X-Files)
+  place: Washington, DC
+- season: 6
+  episode: 15
+  coordinates: -117.167988,32.724149
+  title: Arcadia
+  description: 'Mulder and Scully go undercover as a married couple in a gated community to investigate the mysterious disappearances of neighbors who didn''t conform.'
+  link: https://en.wikipedia.org/wiki/Arcadia_(The_X-Files)
+  place: San Diego, California
+- season: 6
+  episode: 16
+  coordinates: -118.117012,33.881682
+  title: Alpha
+  description: Mulder and Scully investigate a series of attacks by a canine that shows signs of human intelligence.
+  link: https://en.wikipedia.org/wiki/Alpha_(The_X-Files)
+  place: Bellflower, California
+- season: 6
+  episode: 17
+  coordinates: -89.1706,32.081043
+  title: Trevor
+  description: The agents pursue an escaped convict who is capable of passing through solid matter and is desperate to meet his son for the first time.
+  link: https://en.wikipedia.org/wiki/Trevor_(The_X-Files)
+  place: Louin, Mississippi
+- season: 6
+  episode: 18
+  coordinates: -77.044544,38.800083
+  title: Milagro
+  description: A writer who lives next door to Mulder becomes the prime suspect in a series of killings.
+  link: https://en.wikipedia.org/wiki/Milagro_(The_X-Files)
+  place: Alexandria, Virginia
+- season: 6
+  episode: 19
+  coordinates: -104.523024,33.394266
+  title: The Unnatural
+  description: Arthur Dales, the brother of a retired FBI agent with the same name, tells Mulder about an alien who played baseball for the Roswell Grays in 1947.
+  link: https://en.wikipedia.org/wiki/The Unnatural_(The_X-Files)
+  place: Roswell, New Mexico
+- season: 6
+  episode: 20
+  coordinates: -115.172816,36.114646
+  title: Three of a Kind
+  description: 'The Lone Gunmen encounter Susanne Modeski while infiltrating a defense contractors'' conference in Las Vegas.'
+  link: https://en.wikipedia.org/wiki/Three of a Kind_(The_X-Files)
+  place: Las Vegas, Nevada
+- season: 6
+  episode: 21
+  coordinates: -82.554015,35.600945
+  title: Field Trip
+  description: A mystery involving two skeletons leads the agents on a journey in which nothing is quite as it seems.
+  link: https://en.wikipedia.org/wiki/Field Trip_(The_X-Files)
+  place: Asheville, North Carolina
+- season: 6
+  episode: 22
+  coordinates: 
+    - -5.4846349,5.0938623
+    - -108.742584,35.528078
+  title: Biogenesis
+  description: Mulder believes that metallic objects discovered in Africa are proof that life originated elsewhere in the universe.
+  link: https://en.wikipedia.org/wiki/Biogenesis_(The_X-Files)
+  place: 
+    - Republic of Côte d'Ivoire
+    - Gallup, New Mexico
+- season: 7
+  episode: 1
+  coordinates: -77.007294,38.875194
+  title: The Sixth Extinction
+  description: While Scully tries to piece together the meaning of the symbols on the spaceship beached in Africa, Mulder is imprisoned by his own frenetic brain activity.
+  link: https://en.wikipedia.org/wiki/The Sixth Extinction_(The_X-Files)
+  place: Washington, DC
+- season: 7
+  episode: 2
+  coordinates: -76.976051,38.894703
+  title: 'The Sixth Extinction II: Amor Fati'
+  description: 'An unconscious Mulder''s dreams lead him astray from the X-Files, but Scully stays the course in her search to find him.'
+  link: 'https://en.wikipedia.org/wiki/The Sixth Extinction II: Amor Fati_(The_X-Files)'
+  place: Washington, DC
+- season: 7
+  episode: 3
+  coordinates: -117.918669,33.641132
+  title: Hungry
+  description: A fast-food worker develops a taste for human brains...and then for murder.
+  link: https://en.wikipedia.org/wiki/Hungry_(The_X-Files)
+  place: Costa Mesa, California
+- season: 7
+  episode: 4
+  coordinates: -84.280733,30.438256
+  title: Millennium
+  description: An associate of the Millennium Group, which believes the apocalypse will happen on the new year of 2000, resurrects the dead for use in the bringing about of the apocalypse, and Mulder and Scully have to ask the help of criminal profiler Frank Black, a man with former experience with the shadowy group.
+  link: https://en.wikipedia.org/wiki/Millennium_(The_X-Files)
+  place: Tallahassee, Florida
+- season: 7
+  episode: 5
+  coordinates: -79.987037,37.301168
+  title: Rush
+  description: When a school student becomes the prime suspect in the bizarre murder of a police officer, Mulder and Scully are sent to investigate. They discover that the boy and a couple of friends have been playing with the ability to accelerate their movements to a frequency the human eye can&rsquo;t perceive.
+  link: https://en.wikipedia.org/wiki/Rush_(The_X-Files)
+  place: Roanoke, Virginia
+- season: 7
+  episode: 6
+  coordinates: -87.638283,41.884609
+  title: The Goldberg Variation
+  description: After being thrown off a building and surviving, Henry Weems, who appears to be the luckiest man in the world, attracts the attention of Mulder and Scully. But, if he&rsquo;s so lucky, why is he on the run from the mob, and why is everyone around him so unlucky?
+  link: https://en.wikipedia.org/wiki/The Goldberg Variation_(The_X-Files)
+  place: Chicago, Illinois
+- season: 7
+  episode: 7
+  coordinates: -88.343376,37.733936
+  title: Orison
+  description: Reverend Orison releases Donnie Pfaster, Scully&rsquo;s former kidnapper, from jail in the hopes of passing judgment on him. What he discovers instead is that he has released pure evil, and it&rsquo;s headed for Scully.
+  link: https://en.wikipedia.org/wiki/Orison_(The_X-Files)
+  place: Equality, Illinois
+- season: 7
+  episode: 8
+  coordinates: -118.491191,34.019454
+  title: The Amazing Maleeni
+  description: The Amazing Maleeni, a small-time magician, performs an amazing feat to impress a heckler - he turns his head 360 degrees. So when he is later found without a head at all, Mulder and Scully arrive on the case and discover an angry ex-con, an unimpressed rival, and Maleeni&rsquo;s twin brother all seem to have something to do with the plan to rob a major bank.
+  link: https://en.wikipedia.org/wiki/The Amazing Maleeni_(The_X-Files)
+  place: Santa Monica, California
+- season: 7
+  episode: 9
+  coordinates: -86.747735,36.185774
+  title: Signs & Wonders
+  description: When a small town church is the site of a number of ritualistic-like murders, fingers are pointed to the Church of God with Signs and Wonders, a church where the Bible is read literally, and punishment is dealt deftly. But soon the agents realise that the difference between the peaceful religious and the fanatics may not be very much at all.
+  link: https://en.wikipedia.org/wiki/Signs & Wonders_(The_X-Files)
+  place: Nashville, Tennessee
+- season: 7
+  episode: 10
+  coordinates: -121.567841,38.596194
+  title: Sein und Zeit
+  description: While investigating the bizarre disappearance of a young girl from her home, Mulder becomes obsessed with the number of children who have vanished in similar ways. Scully&rsquo;s fears that he is emotionally involved due to his sister&rsquo;s disappearance 27 years earlier are heightened when Mulder&rsquo;s mother dies, apparently of suicide.
+  link: https://en.wikipedia.org/wiki/Sein und Zeit_(The_X-Files)
+  place: West Sacramento, California
+- season: 7
+  episode: 11
+  coordinates: -121.466217,38.512427
+  title: Closure
+  description: As Mulder is forced to accept that his mother&rsquo;s death was by her own hand, he is led by a man whose son disappeared years earlier to another truth - that his sister may be among the souls taken by &rsquo;walk-ins&rsquo;, saving the souls of children doomed to live unhappy lives. Together, they embark on a journey that will reveal to Mulder the truth about his sister&rsquo;s disappearance.
+  link: https://en.wikipedia.org/wiki/Closure_(The_X-Files)
+  place: Sacramento, California
+- season: 7
+  episode: 12
+  coordinates: -118.328661,34.092809
+  title: X-Cops
+  description: A filming of an episode of COPS gets in the way of the collaborative effort between the FBI and the local police department. Mulder later finds out that the monster feeds on fear. While Mulder embraces the publicity, Scully is not so sure of it.
+  link: https://en.wikipedia.org/wiki/X-Cops_(The_X-Files)
+  place: Los Angeles, California
+- season: 7
+  episode: 13
+  coordinates: -117.0927428,34.6123591
+  title: First Person Shooter
+  description: The Lone Gunmen summon Mulder and Scully to the headquarters of a video game design company when the new virtual-reality game, which the Gunmen helped design, is taken over by a bizarre female computer character whose power is much more than virtual.
+  link: https://en.wikipedia.org/wiki/First Person Shooter_(The_X-Files)
+  place: Inland Empire, California
+- season: 7
+  episode: 14
+  coordinates: -122.763304,38.083403
+  title: Theef
+  description: 'After a prominent doctor discovers his father-in-law dead and the word &rsquo;Theef&rsquo; written on the wall in blood, Mulder suspects hexcraft may be the source of threats against the doctor''s family.'
+  link: https://en.wikipedia.org/wiki/Theef_(The_X-Files)
+  place: Nicasio, California
+- season: 7
+  episode: 15
+  coordinates: -77.885374,37.684142
+  title: En Ami
+  description: After a young boy with cancer, whose parents don&rsquo;t believe in medical treatment because it is against God&rsquo;s will, recovers miraculously, Scully is intrigued. What she soon discovers is that his cure is not miraculous, but scientific. Eager, if wary, to learn of the truth behind his secrets, Scully agrees to travel with the Cigarette Smoking Man to get the cure to all mankind&rsquo;s diseases.
+  link: https://en.wikipedia.org/wiki/En Ami_(The_X-Files)
+  place: Goochland, Virginia
+- season: 7
+  episode: 16
+  coordinates: -72.573998,44.260893
+  title: Chimera
+  description: Mulder investigates what appears to be a missing case of a woman from a small town, but soon turns out to be a murder by a spirit summoned from the underworld. Scully, meanwhile, must endure an uncomfortable stakeout.
+  link: https://en.wikipedia.org/wiki/Chimera_(The_X-Files)
+  place: Montpelier, Vermont
+- season: 7
+  episode: 17
+  coordinates: -77.069092,38.908596
+  title: all things
+  description: While Mulder is away in England, Scully is led by coincidences, chance, fate and possibly a higher power to a married man whom she had an affair with during medical school, and a look at the life she didn&rsquo;t choose, forcing her to make choices about her future.
+  link: https://en.wikipedia.org/wiki/all things_(The_X-Files)
+  place: Washington, DC
+- season: 7
+  episode: 18
+  coordinates: -80.244216,36.09986
+  title: Brand X
+  description: While protecting a man due to testify against the Morley cigarette company, Skinner is horrified when the witness dies mysteriously. What the agents soon discover is that a new brand of cigarette has a dangerous secret.
+  link: https://en.wikipedia.org/wiki/Brand X_(The_X-Files)
+  place: Winston Salem, North Carolina
+- season: 7
+  episode: 19
+  coordinates: -118.349018,34.101817
+  title: Hollywood A.D.
+  description: An entrepreneurial Hollywood producer and college friend of Skinner picks up the idea for a film based on the X-Files, however the agents find that the level of realism in their fictional portrayal is somewhat questionable.
+  link: https://en.wikipedia.org/wiki/Hollywood A.D._(The_X-Files)
+  place: Los Angeles, California
+- season: 7
+  episode: 20
+  coordinates: -94.627464,39.114053
+  title: Fight Club
+  description: 'Mulder and Scully cross paths with a pair of doppelgangers whose close proximity yields unlimited mayhem. Splitting up in two, the agent tries to find out ''why'' and ''what'' they are doing.'
+  link: https://en.wikipedia.org/wiki/Fight Club_(The_X-Files)
+  place: Kansas City, Kansas
+- season: 7
+  episode: 21
+  coordinates: -90.422618,38.660886
+  title: Je Souhaite
+  description: 'Mulder and Scully''s encounter with a man and his wheelchair-bound, mentally-impaired brother leads them to an indifferent genie whose willingness to grant wishes belies a deeper motive.'
+  link: https://en.wikipedia.org/wiki/Je Souhaite_(The_X-Files)
+  place: Saint Louis, Missouri
+- season: 7
+  episode: 22
+  coordinates: 
+    - -123.530273,44.1738
+    - 9.537499,33.886917
+  title: Requiem
+  description: Mulder and Scully return to the site of their first investigation together when a series of abductions take place. However, Scully&rsquo;s failing health, and Mulder&rsquo;s concern that she is in danger, cause him to take her off the case. Meanwhile, the Cigarette-Smoking Man - on his deathbed - reunites with Marita Covarrubias and Krycek in an attempt to revive the project.
+  link: https://en.wikipedia.org/wiki/Requiem_(The_X-Files)
+  place: 
+    - Blachly, Oregon
+    - Tunisia

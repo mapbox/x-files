@@ -1,0 +1,15 @@
+{
+  "name": "x-files",
+  "version": "0.0.0",
+  "description": "Explore the X-Files!",
+  "author": "katydecorah",
+  "scripts": {
+    "test": "tape test/*.js | tap-spec"
+  },
+  "devDependencies": {
+    "js-yaml": "^2.1.3",
+    "request": "^2.67.0",
+    "tap-spec": "~4.1.1",
+    "tape": "^4.4.0"
+  }
+}

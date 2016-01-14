@@ -1,0 +1,37 @@
+---
+
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>{{site.title}} &times; {{site.description}}</title>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <meta name="twitter:site" content="@Mapbox" />
+  <meta property="og:site_name" content="Mapbox" />
+  <meta name="twitter:url" content="{{site.url}}{{site.baseurl}}/" />
+  <meta property="og:url" content="{{site.url}}{{site.baseurl}}/" />
+  <meta name="twitter:title" content="{{site.title}}" />
+  <meta property="og:title" content="{{site.title}}" />
+  <meta name="twitter:description" content="{{site.description}}" />
+  <meta property="og:description" content="{{site.description}}" />
+  <meta name="twitter:image" content="{{site.url}}{{site.baseurl}}/{{site.image}}" />
+  <meta name="st:image" content="{{site.url}}{{site.baseurl}}/{{site.image}}" />
+  <meta property="og:image" content="{{site.url}}{{site.baseurl}}/{{site.image}}" />
+  <meta name="twitter:card" content="summary" />
+  <meta property="og:type" content="website" />
+  <link href="https://api.tiles.mapbox.com/mapbox-gl-js/{{site.mapboxgljs}}/mapbox-gl.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Special+Elite|Metrophobic" rel="stylesheet" type="text/css">
+  <link href="https://www.mapbox.com/base/latest/base.css" rel="stylesheet" />
+  <link href="site.css" rel="stylesheet" />
+  <script src="https://api.tiles.mapbox.com/mapbox-gl-js/{{site.mapboxgljs}}/mapbox-gl.js"></script>
+  <!-- Data from Mapping the X-Files by Jane Roberts http://www.geography.wisc.edu/courses/geog572/f12/roberts/index.html-->
+</head>
+<body>
+  <div id="listings" class="listings prose"></div>
+  <div id="map" class="map"></div>
+  <div class="z1 mb-watermark"><div class="pad1y"><img src="mb.svg" alt="Mapbox logo"></div></div>
+  <script src="site.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+title: Explore the X-Files
+description: Did Mulder and Scully investigate an X-File near you?
+url: https://www.mapbox.com
+baseurl: /x-files
+image: map.png
+
+accessToken: pk.eyJ1Ijoia2F0eWRlY29yYWgiLCJhIjoiY2lqZW1yamRjMDAwOXV1a2tqazIwcDF5diJ9.CK-1bGJq2o2imB-JMNVDBg
+styleURL: katydecorah/cij7oa7ta006v8sm44uj5nrbw
+mapboxgljs: v0.12.2
+
+sass:
+  style: :compressed
+
+exclude:
+- node_modules
+- .sass-cache
