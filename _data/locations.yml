@@ -94,11 +94,11 @@
   place: Raleigh, North Carolina
 - season: 1
   episode: 14
-  coordinates: -77.27165,39.173162
+  coordinates: -73.1471257,42.14765
   title: Gender Bender
   description: Mulder and Scully investigate an enclosed community called the Kindred who appear to have the ability to switch gender.
   link: https://en.wikipedia.org/wiki/Gender Bender_(The_X-Files)
-  place: Germantown, Maryland
+  place: Steveston, Massachusetts
 - season: 1
   episode: 15
   coordinates: -77.094709,38.984652
@@ -108,7 +108,7 @@
   place: Bethesda, Maryland
 - season: 1
   episode: 16
-  coordinates: -77.036366,38.895112
+  coordinates: -77.036366,38.9
   title: Young at Heart
   description: Mulder must stop an elusive stalker who he captured in his youth, but who seems to have remained the same age.
   link: https://en.wikipedia.org/wiki/Young at Heart_(The_X-Files)
@@ -224,7 +224,7 @@
   place: Los Angeles, California
 - season: 2
   episode: 8
-  coordinates: -77.036366,38.895112
+  coordinates: -77.0363,38.897
   title: One Breath
   description: Scully miraculously appears in a Washington DC hospital, unknowingly supervised by a nurse who may never have existed.
   link: https://en.wikipedia.org/wiki/One Breath_(The_X-Files)
@@ -447,7 +447,7 @@
   title: War of the Coprophages
   description: Mulder gets caught up investigating what could be super-human cockroaches with metal bodies
   link: https://en.wikipedia.org/wiki/War of the Coprophages_(The_X-Files)
-  place: Swansea, Massachusetts
+  place: Miller's Grove, Massachusetts
 - season: 3
   episode: 13
   coordinates: -109.759167,36.138404
