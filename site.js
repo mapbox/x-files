@@ -158,7 +158,14 @@ function setActive(el) {
     siblings[i].className = siblings[i].className
     .replace(/active/, '').replace(/\s\s*$/, '');
   }
-  el.scrollIntoView();
+  
+  if (window.innerWidth < 700 ){
+    var mHeight = document.getElementById('listings').offsetHeight;
+    document.getElementById('listings').scrollTop = parseInt(el.dataset.top) - parseInt(mHeight);
+  } else {
+    document.getElementById('listings').scrollTop = el.dataset.top;
+  }
+
   // push state    
   if (history.pushState) {
     history.pushState(null, null, '#'+el.id);
@@ -190,6 +197,8 @@ markers.features.reduce(function(prev, locale, index, array) {
   var listing = listings.appendChild(document.createElement('div'));
   listing.className = 'item';  
   listing.id = prop.id;
+  var size = listing.getBoundingClientRect();
+  listing.dataset.top = size.top;
   
   var link = listing.appendChild(document.createElement('a'));
   link.href = '#';
