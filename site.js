@@ -21,7 +21,8 @@ var markers = {
         "episode": {{data.episode}},
         "description": "{{data.description}}",
         "title": "{{data.title}}",
-        "link": "{{data.link}}",
+        "link": "{{data.link}}",{% if data.fictitious %}
+        "fictitious": true,{% endif %}
         "place": "{% if data.place[1] %}{{data.place | join:', '}}{% else %}{{data.place}}{% endif %}",
         "id": {{data.season}}{{data.episode}}
       },
@@ -194,7 +195,16 @@ markers.features.reduce(function(prev, locale, index, array) {
   link.href = '#';
   link.className = 'title';
   link.innerHTML = prop.title;
-  link.innerHTML += '<p class="icon marker inline small quiet">' + prop.place + '</p>';
+  
+  if (prop.fictitious) {
+    var place = prop.place + ' (fictitious)';
+  } else {
+    var place = prop.place;
+  }
+  
+  link.innerHTML += '<p class="icon marker inline small quiet">' + place + '</p>';
+  
+
   
   var details = listing.appendChild(document.createElement('div'));
   details.className = 'item-details';
