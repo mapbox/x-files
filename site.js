@@ -218,7 +218,7 @@ markers.features.reduce(function(prev, locale, index, array) {
   var details = listing.appendChild(document.createElement('div'));
   details.className = 'item-details';
   details.innerHTML += '<p class="icon time inline small quiet">Season ' + prop.season + ' Episode ' + prop.episode + '</p>';
-  details.innerHTML += '<p>' + prop.description+' <a href="'+prop.link +'">Read more</a></p>';
+  details.innerHTML += '<p>' + prop.description+' <a href="'+prop.link +'" target="_blank">Read more</a></p>';
   
   // tweet the epsiode
   var tweetText = 'The X-Files episode “'+ prop.title + '” took place near ' + prop.place + '. 👽 Find X-Files near you ';
