@@ -38,6 +38,19 @@ data.locations.metadata.forEach(function(post) {
     t.ok(post.description,'item must have a description');
     t.ok(post.link,'item must have a link');
     t.ok(post.place,'item must have a place');
+    t.ok(post.link.match('https://en.wikipedia.org/wiki/'),'link must be from wikipedia');
+    
+    if (typeof post.place == 'object' || typeof post.coordinates == 'object') {
+      t.equal(typeof post.place,'object','places must be in a list');
+      t.equal(typeof post.coordinates,'object','coordinates must be in a list')
+      var countPlaces = post.place.length
+      var countCoordinates = post.coordinates.length
+      t.equal(countPlaces,countCoordinates,'number of places and coordinates must match')
+    } else {
+      t.notEqual(typeof post.place,'object','places must not be in a list');
+      t.notEqual(typeof post.coordinates,'object','coordinates must not be in a list')
+    }
+    
     t.end();
   });
 });
