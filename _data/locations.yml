@@ -1284,3 +1284,293 @@
     - Bellefleur, Oregon
     #- Tunisia
   fictitious: true
+- season: 8
+  episode: 1
+  coordinates: -110.4318744,34.7720071
+  title: Within
+  description: An FBI task force is organized to hunt for Mulder but Scully suspects the task force leader, Special Agent John Doggett, and instead chooses to search for her lost partner with Skinner.
+  link: https://en.wikipedia.org/wiki/Within_(The_X-Files)
+  place: Flemingtown, Arizona
+  fictitious: true
+- season: 8
+  episode: 2
+  coordinates: -110.4318744,34.7720071
+  title: Without
+  description: As the FBI task force continues to look for Mulder, they encounter an alien bounty hunter among them. Scully helps to defeat the alien and, after the task force is called off, she is surprised to learn that John Doggett, the leader of the team, has been assigned to the X-Files.
+  link: https://en.wikipedia.org/wiki/Without_(The_X-Files)
+  place: Flemingtown, Arizona
+  fictitious: true
+- season: 8
+  episode: 3
+  coordinates: -113.792653,42.536136
+  title: Patience
+  description: Investigating his first X-File case, Doggett travels with Scully to Idaho where a married couple were brutally murdered by a man-sized bat.
+  link: https://en.wikipedia.org/wiki/Patience_(The_X-Files)
+  place: Burley, Idaho
+- season: 8
+  episode: 4
+  coordinates: -113.0787216,37.6823935
+  title: Roadrunners
+  description: In a small remote town in Utah, Scully is trapped by the town's residents, a religious cult that worships a parasitic creature inserted near its host's spine.
+  link: https://en.wikipedia.org/wiki/Roadrunners_(The_X-Files)
+  place: Cedar City, Utah
+- season: 8
+  episode: 5
+  coordinates: -98.7718562,35.332572
+  title: Invocation
+  description: After a boy who disappeared ten years ago suddenly returns without explanation, the case echoes back to certain incidents in Doggett's past but he and Scully discover that the boy hasn't aged a day.
+  link: https://en.wikipedia.org/wiki/Invocation_(The_X-Files)
+  place: Dexter, Oklahoma
+  fictitious: true
+- season: 8
+  episode: 6
+  coordinates: -76.6191076,39.286198
+  title: Redrum
+  description: An old friend of John Doggett and formerly successful lawyer finds himself in jail for the murder of his wife, an incident he has no memory of. As he starts to live days in reverse, he realizes that he has been granted a second chance.
+  link: https://en.wikipedia.org/wiki/Redrum_(The_X-Files)
+  place: Baltimore, Maryland
+- season: 8
+  episode: 7
+  coordinates: -80.0124919,40.4264352
+  title: Via Negativa
+  description: While Scully takes time off to deal with the early stages of her pregnancy, Doggett and Skinner attempt to avert the mysterious murder spree of a religious cult leader who kills his victims in their sleep.
+  link: https://en.wikipedia.org/wiki/Via_Negativa_(The_X-Files)
+  place: Pittsburgh, Pennsylvania
+- season: 8
+  episode: 8
+  coordinates: -71.8269142,42.2913319
+  title: Surekill
+  description: Looking for plausible scientific explanations, Scully and Doggett investigate an assassin with seemingly impossible visual abilities but they soon learn that there's more to the case than meets the eye.
+  link: https://en.wikipedia.org/wiki/Surekill_(The_X-Files)
+  place: Worcester, Massachusetts
+- season: 8
+  episode: 9
+  coordinates: -85.4229872,40.1946822
+  title: Salvage
+  description: Scully and Doggett encounter an apparently indestructible killer, whose body is transforming into a machine.
+  link: https://en.wikipedia.org/wiki/Salvage_(The_X-Files)
+  place: Muncie, Indiana
+- season: 8
+  episode: 10
+  coordinates: 
+    - 72.8665504,19.0901816
+    - -77.0237801,38.8955327
+    - -76.9149264,38.9247434
+  title: Badlaa
+  description: As Doggett tries to keep an open mind, he and Scully piece together evidence of a murdering Indian mystic who hides in the stomachs of his victims.
+  link: https://en.wikipedia.org/wiki/Badlaa_(The_X-Files)
+  place: 
+    - Sahar International Airport in Mumbai
+    - Washington DC
+    - Cheverly, Maryland
+- season: 8
+  episode: 11
+  coordinates: -77.2739934, 41.3522654
+  title: The Gift
+  description: Hoping to determine Mulder's whereabouts, Doggett investigates a case that Mulder kept secret from the FBI involving a soul eater, a creature that can consume the sicknesses of others.
+  link: https://en.wikipedia.org/wiki/The_Gift_(The_X-Files)
+  place: Squamash, Pennsylvania
+  fictitious: true
+- season: 8
+  episode: 12
+  coordinates: -71.084796,42.3198412
+  title: Medusa
+  description: In a race against time, Doggett leads a team of professionals into the Boston subway system in search of a murderer. However, Scully discovers that a killer sea organism is responsible and Doggett is infected.
+  link: https://en.wikipedia.org/wiki/Medusa_(The_X-Files)
+  place: Boston, Massachusetts
+- season: 8
+  episode: 13
+  coordinates: -77.2737321,39.2183279
+  title: Per Manum
+  description: Scully becomes personally involved when she encounters several women who had no way of naturally conceiving but who claim to have been abducted and impregnated with alien babies.
+  link: https://en.wikipedia.org/wiki/Per_Manum_(The_X-Files)
+  place: Maryland
+- season: 8
+  episode: 14
+  coordinates: -112.0316489,46.5942778
+  title: This Is Not Happening
+  description: With assistance from a specialist in ritualistic crime, Scully, Doggett and Skinner discover a group of UFO enthusiasts who help returned abductees recover.
+  link: https://en.wikipedia.org/wiki/This_Is_Not_Happening
+  place: Helena, Montana
+- season: 8
+  episode: 15
+  coordinates: -77.0212976,38.8948457
+  title: Deadalive
+  description: Shortly after Mulder is buried, a former abductee's deceased body returns and is miraculously resurrected, offering hope for Mulder's recovery. Meanwhile, Krycek threatens Skinner that he must kill Scully's unborn child.
+  link: https://en.wikipedia.org/wiki/Deadalive_(The_X-Files)
+  place: Washington DC
+- season: 8
+  episode: 16
+  coordinates: -77.0268078,38.892168
+  title: Three Words
+  description: Although Mulder is denied reassignment to the X-files, he nevertheless investigates a man who was shot before he could inform the President that an alien invasion has begun.
+  link: https://en.wikipedia.org/wiki/Three_Words_(The_X-Files)
+  place: Washington DC
+- season: 8
+  episode: 17
+  coordinates: -90.0763743,29.9880565
+  title: Empedocles
+  description: While Scully recovers from complications related to her pregnancy, Reyes contacts Mulder about a man seemingly connected to the unsolved murder of Doggett's son.
+  link: https://en.wikipedia.org/wiki/Empedocles_(The_X-Files)
+  place: New Orleans, Louisana
+- season: 8
+  episode: 18
+  coordinates: -91.8354602,18.7447183
+  title: Vienen
+  description: Despite orders to stay away from the X-Files, Mulder finds himself stranded on a quarantined oil rig with Doggett where the crew have been infected by an alien virus that he has encountered many times before.
+  link: https://en.wikipedia.org/wiki/Vienen_(The_X-Files)
+  place: Gulf of Mexico
+- season: 8
+  episode: 19
+  coordinates: -79.2517194,42.1195848
+  title: Alone
+  description: With Scully on maternity leave, Doggett is assigned an inexperienced new partner who is obsessed with the X-files. Together, they are trapped in an underground tunnel by a creature that can assume a human appearance and uses snake venom to blind its victims.
+  link: https://en.wikipedia.org/wiki/Alone_(The_X-Files)
+  place: Ellicott, New York
+- season: 8
+  episode: 20
+  coordinates: -77.2653386,39.176329
+  title: Essence
+  description: Mulder, John Doggett and Skinner investigate lingering questions concerning Scully's pregnancy, reluctantly accepting help from Alex Krycek while Scully is pursued by Billy Miles - now an alien-human replacement after the events of DeadAlive.
+  link: https://en.wikipedia.org/wiki/Essence_(The_X-Files)
+  place: Germantown, Maryland
+- season: 8
+  episode: 21
+  coordinates: -84.3570039,31.4518988
+  title: Existence
+  description: Mulder, Doggett and Skinner discover that high-ranking FBI personnel have been transformed into alien super-soldiers while Reyes fears for Scully's unborn child as she prepares to deliver the baby on a remote farm.
+  link: https://en.wikipedia.org/wiki/Existence_(The_X-Files)
+  place: Georgia
+#- season: 9
+#  episode: 1
+#  coordinates: 
+#  title: Nothing Important Happened Today
+#  description: 
+#  link: https://en.wikipedia.org/wiki/Nothing Important Happened Today_(The_X-Files)
+#  place: 
+#- season: 9
+#  episode: 2
+#  coordinates: 
+#  title: Nothing Important Happened Today II
+#  description: 
+#  link: https://en.wikipedia.org/wiki/Nothing Important Happened Today II_(The_X-Files)
+#  place: 
+#- season: 9
+#  episode: 3
+#  coordinates: 
+#  title: Dæmonicus
+#  description: 
+#  link: https://en.wikipedia.org/wiki/Dæmonicus_(The_X-Files)
+#  place: 
+#- season: 9
+#  episode: 4
+#  coordinates: 
+#  title: 4-D
+#  description: 
+#  link: https://en.wikipedia.org/wiki/4-D_(The_X-Files)
+#  place: 
+#- season: 9
+#  episode: 5
+#  coordinates: 
+#  title: Lord of the Flies
+#  description: 
+#  link: https://en.wikipedia.org/wiki/Lord of the Flies_(The_X-Files)
+#  place: 
+#- season: 9
+#  episode: 6
+#  coordinates: 
+#  title: Trust No 1
+#  description: 
+#  link: https://en.wikipedia.org/wiki/Trust No 1_(The_X-Files)
+#  place: 
+#- season: 9
+#  episode: 7
+#  coordinates: 
+#  title: John Doe
+#  description: 
+#  link: https://en.wikipedia.org/wiki/John Doe_(The_X-Files)
+#  place: 
+#- season: 9
+#  episode: 8
+#  coordinates: 
+#  title: Hellbound
+#  description: 
+#  link: https://en.wikipedia.org/wiki/Hellbound_(The_X-Files)
+#  place: 
+#- season: 9
+#  episode: 9
+#  coordinates: 
+#  title: Provenance
+#  description: 
+#  link: https://en.wikipedia.org/wiki/Provenance_(The_X-Files)
+#  place: 
+#- season: 9
+#  episode: 10
+#  coordinates: 
+#  title: Providence
+#  description: 
+#  link: https://en.wikipedia.org/wiki/Providence_(The_X-Files)
+#  place: 
+#- season: 9
+#  episode: 11
+#  coordinates: 
+#  title: Audrey Pauley
+#  description: 
+#  link: https://en.wikipedia.org/wiki/Audrey Pauley_(The_X-Files)
+#  place: 
+#- season: 9
+#  episode: 12
+#  coordinates: 
+#  title: Underneath
+#  description: 
+#  link: https://en.wikipedia.org/wiki/Underneath_(The_X-Files)
+#  place: 
+#- season: 9
+#  episode: 13
+#  coordinates: 
+#  title: Improbable
+#  description: 
+#  link: https://en.wikipedia.org/wiki/Improbable_(The_X-Files)
+#  place: 
+#- season: 9
+#  episode: 14
+#  coordinates: 
+#  title: Scary Monsters
+#  description: 
+#  link: https://en.wikipedia.org/wiki/Scary Monsters_(The_X-Files)
+#  place: 
+#- season: 9
+#  episode: 15
+#  coordinates: 
+#  title: Jump the Shark
+#  description: 
+#  link: https://en.wikipedia.org/wiki/Jump the Shark_(The_X-Files)
+#  place: 
+#- season: 9
+#  episode: 16
+#  coordinates: 
+#  title: William
+#  description: 
+#  link: https://en.wikipedia.org/wiki/William_(The_X-Files)
+#  place: 
+#- season: 9
+#  episode: 17
+#  coordinates: 
+#  title: Release
+#  description: 
+#  link: https://en.wikipedia.org/wiki/Release
+#  place: 
+#- season: 9
+#  episode: 18
+#  coordinates: 
+#  title: Sunshine Days
+#  description: 
+#  link: https://en.wikipedia.org/wiki/Sunshine Days
+#  place: 
+#- season: 9
+#  episode: "19\n20"
+#  coordinates: 
+#  title: The Truth
+#  description: 
+#  link: https://en.wikipedia.org/wiki/The Truth
+#  place: 
