@@ -21,6 +21,7 @@ var markers = {
         "episode": {{data.episode}},
         "description": "{{data.description}}",
         "title": "{{data.title}}",
+        "xlink": "{{data.xlink}}",
         "link": "{{data.link}}",{% if data.fictitious %}
         "fictitious": true,{% endif %}
         "place": "{% if data.place[1] %}{{data.place | join:', '}}{% else %}{{data.place}}{% endif %}",
@@ -184,7 +185,7 @@ markers.features.reduce(function(prev, locale, index, array) {
   if (index == 0) {
     var legend = listings.appendChild(document.createElement('div'));
     legend.className = 'item legend';
-    legend.innerHTML = '<h1>Explore the <span>X</span> Files</h1><p>{{site.description}}</p><small>Data from <a href="http://www.geography.wisc.edu/courses/geog572/f12/roberts/index.html">Mapping the X-Files by Jane Roberts</a>.</small>'
+    legend.innerHTML = '<h1>Explore the <span>X</span> Files</h1><p>{{site.description}}</p><small>Data from <a href="http://www.geography.wisc.edu/courses/geog572/f12/roberts/index.html">Mapping the X-Files by Jane Roberts</a> and <a href="http://x-files.wikia.com/wiki/Main_Page">X-Files Wiki</a>.</small>'
   }
   
   // season number headers
@@ -218,7 +219,7 @@ markers.features.reduce(function(prev, locale, index, array) {
   var details = listing.appendChild(document.createElement('div'));
   details.className = 'item-details';
   details.innerHTML += '<p class="icon time inline small quiet">Season ' + prop.season + ' Episode ' + prop.episode + '</p>';
-  details.innerHTML += '<p>' + prop.description+' <a href="'+prop.link +'" target="_blank">Read more</a></p>';
+  details.innerHTML += '<p>' + prop.description+' <a href="'+prop.xlink +'" target="_blank">Read more</a></p>';
   
   // tweet the epsiode
   var tweetText = 'The X-Files episode “'+ prop.title + '” took place near ' + prop.place + '. 👽 Find X-Files near you ';

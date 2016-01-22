@@ -36,9 +36,11 @@ data.locations.metadata.forEach(function(post) {
     t.ok(post.coordinates,'item must have coordinates');
     t.ok(post.title,'item must have a title');
     t.ok(post.description,'item must have a description');
-    t.ok(post.link,'item must have a link');
+    t.ok(post.link,'item must have a wikipedia link');
+    t.ok(post.xlink,'item must have an x-files wiki link');
     t.ok(post.place,'item must have a place');
     t.ok(post.link.match('https://en.wikipedia.org/wiki/'),'link must be from wikipedia');
+    t.ok(post.xlink.match('http://x-files.wikia.com/wiki/'),'link must be from the x-file wiki');
     
     if (typeof post.place == 'object' || typeof post.coordinates == 'object') {
       t.equal(typeof post.place,'object','places must be in a list');
