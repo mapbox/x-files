@@ -13,6 +13,7 @@ For single location episodes:
   title: # title
   description: # 1-2 sentence synopsis
   link: # link to Wikipedia episode
+  xlink: # link to X-Files wiki episode
   place: # city, state
   fictitious: true # ONLY set if the place is fictitious
 ```
@@ -27,6 +28,7 @@ For multiple location episodes, create a list with the `place` and `coordinates`
     - # long,lat
   title: # title
   description: # 1-2 sentence synopsis
+  xlink: # link to X-Files wiki episode
   link: # link to Wikipedia episode
   place: 
     - # city, state
