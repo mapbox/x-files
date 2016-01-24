@@ -64,7 +64,7 @@ data.locations.metadata.forEach(function(post) {
       t.fail('description must be less than 425 characters long');
     }
     if (post.description.substr(post.description.length - 1) != '.' && post.description.substr(post.description.length - 1) != '?' ) {
-      t.fail('description must end with a period');
+      t.fail('description must end in punctuation (period or question mark)');
     }
     
     t.ok(post.link,'item must have a wikipedia link');
