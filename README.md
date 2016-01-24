@@ -1,4 +1,4 @@
-# Explore the X-Files
+# Explore the X-Files [![Build Status](https://travis-ci.org/mapbox/x-files.svg?branch=mb-pages)](https://travis-ci.org/mapbox/x-files)
 
 Mapping each X-File episode's location with Mapbox Gl JS and data from [Mapping the X-Files by Jane Roberts](http://www.geography.wisc.edu/courses/geog572/f12/roberts/index.html).
 
