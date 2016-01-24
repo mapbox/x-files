@@ -164,7 +164,7 @@ function setActive(el) {
     var mHeight = document.getElementById('listings').offsetHeight;
     document.getElementById('listings').scrollTop = parseInt(el.dataset.top) - parseInt(mHeight);
   } else {
-    document.getElementById('listings').scrollTop = el.dataset.top;
+    document.getElementById('listings').scrollTop = parseInt(el.dataset.top) - 40;
   }
 
   // push state    
