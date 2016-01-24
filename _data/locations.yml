@@ -1775,174 +1775,186 @@
   xlink: http://x-files.wikia.com/wiki/Existence
   place: Georgia
   
-#- season: 9
-#  episode: 1
-#  coordinates: 
-#  title: Nothing Important Happened Today
-#  description: 
-#  link: https://en.wikipedia.org/wiki/Nothing Important Happened Today_(The_X-Files)
-#  xlink: http://x-files.wikia.com/wiki/Nothing_Important_Happened_Today
-#  place: 
-#  
-#- season: 9
-#  episode: 2
-#  coordinates: 
-#  title: Nothing Important Happened Today II
-#  description: 
-#  link: https://en.wikipedia.org/wiki/Nothing Important Happened Today II_(The_X-Files)
-#  xlink: http://x-files.wikia.com/wiki/Nothing_Important_Happened_Today_II
-#  place: 
-#  
-#- season: 9
-#  episode: 3
-#  coordinates: 
-#  title: DÃ¦monicus
-#  description: 
-#  link: https://en.wikipedia.org/wiki/DÃ¦monicus_(The_X-Files)
-#  xlink: http://x-files.wikia.com/wiki/DÃ¦monicus
-#  place: 
-#  
-#- season: 9
-#  episode: 4
-#  coordinates: 
-#  title: 4-D
-#  description: 
-#  link: https://en.wikipedia.org/wiki/4-D_(The_X-Files)
-#  xlink: http://x-files.wikia.com/wiki/4-D
-#  place: 
-#  
-#- season: 9
-#  episode: 5
-#  coordinates: 
-#  title: Lord of the Flies
-#  description: 
-#  link: https://en.wikipedia.org/wiki/Lord of the Flies_(The_X-Files)
-#  xlink: http://x-files.wikia.com/wiki/Lord_of_the_Flies
-#  place: 
-#  
-#- season: 9
-#  episode: 6
-#  coordinates: 
-#  title: Trust No 1
-#  description: 
-#  link: https://en.wikipedia.org/wiki/Trust No 1_(The_X-Files)
-#  xlink: http://x-files.wikia.com/wiki/Trust_No_1
-#  place: 
-#  
-#- season: 9
-#  episode: 7
-#  coordinates: 
-#  title: John Doe
-#  description: 
-#  link: https://en.wikipedia.org/wiki/John Doe_(The_X-Files)
-#  xlink: http://x-files.wikia.com/wiki/John_Doe
-#  place: 
-#  
-#- season: 9
-#  episode: 8
-#  coordinates: 
-#  title: Hellbound
-#  description: 
-#  link: https://en.wikipedia.org/wiki/Hellbound_(The_X-Files)
-#  xlink: http://x-files.wikia.com/wiki/Hellbound
-#  place: 
-#  
-#- season: 9
-#  episode: 9
-#  coordinates: 
-#  title: Provenance
-#  description: 
-#  link: https://en.wikipedia.org/wiki/Provenance_(The_X-Files)
-#  xlink: http://x-files.wikia.com/wiki/Provenance
-#  place: 
-#  
-#- season: 9
-#  episode: 10
-#  coordinates: 
-#  title: Providence
-#  description: 
-#  link: https://en.wikipedia.org/wiki/Providence_(The_X-Files)
-#  xlink: http://x-files.wikia.com/wiki/Providence
-#  place: 
-#  
-#- season: 9
-#  episode: 11
-#  coordinates: 
-#  title: Audrey Pauley
-#  description: 
-#  link: https://en.wikipedia.org/wiki/Audrey Pauley_(The_X-Files)
-#  xlink: http://x-files.wikia.com/wiki/Audrey_Pauley
-#  place: 
-#  
-#- season: 9
-#  episode: 12
-#  coordinates: 
-#  title: Underneath
-#  description: 
-#  link: https://en.wikipedia.org/wiki/Underneath_(The_X-Files)
-#  xlink: http://x-files.wikia.com/wiki/Underneath
-#  place: 
-#  
-#- season: 9
-#  episode: 13
-#  coordinates: 
-#  title: Improbable
-#  description: 
-#  link: https://en.wikipedia.org/wiki/Improbable_(The_X-Files)
-#  xlink: http://x-files.wikia.com/wiki/Improbable
-#  place: 
-#  
-#- season: 9
-#  episode: 14
-#  coordinates: 
-#  title: Scary Monsters
-#  description: 
-#  link: https://en.wikipedia.org/wiki/Scary Monsters_(The_X-Files)
-#  xlink: http://x-files.wikia.com/wiki/Scary_Monsters
-#  place: 
-#  
-#- season: 9
-#  episode: 15
-#  coordinates: 
-#  title: Jump the Shark
-#  description: 
-#  link: https://en.wikipedia.org/wiki/Jump the Shark_(The_X-Files)
-#  xlink: http://x-files.wikia.com/wiki/Jump_the_Shark
-#  place: 
-#  
-#- season: 9
-#  episode: 16
-#  coordinates: 
-#  title: William
-#  description: 
-#  link: https://en.wikipedia.org/wiki/William_(The_X-Files)
-#  xlink: http://x-files.wikia.com/wiki/William
-#  place: 
-#  
-#- season: 9
-#  episode: 17
-#  coordinates: 
-#  title: Release
-#  description: 
-#  link: https://en.wikipedia.org/wiki/Release
-#  xlink: http://x-files.wikia.com/wiki/Release
-#  place: 
-#  
-#- season: 9
-#  episode: 18
-#  coordinates: 
-#  title: Sunshine Days
-#  description: 
-#  link: https://en.wikipedia.org/wiki/Sunshine Days
-#  xlink: http://x-files.wikia.com/wiki/Sunshine_Days
-#  place: 
-#  
-#- season: 9
-#  episode: 19/20
-#  coordinates: 
-#  title: The Truth
-#  description: 
-#  link: https://en.wikipedia.org/wiki/The Truth
-#  xlink: http://x-files.wikia.com/wiki/The_Truth
-#  place: 
+- season: 9
+  episode: 1
+  coordinates: -76.5964085,39.2713863
+  title: Nothing Important Happened Today
+  description: While Agent Scully is on maternity leave, Agent Doggett asks for her help as he investigates the death of an EPA official who died after his car was forced off a bridge by a woman he picked up.
+  link: https://en.wikipedia.org/wiki/Nothing_Important_Happened_Today
+  xlink: http://x-files.wikia.com/wiki/Nothing_Important_Happened_Today
+  place: Baltimore, Maryland
+  
+- season: 9
+  episode: 2
+  coordinates: -76.5964085,39.2713863
+  title: Nothing Important Happened Today II
+  description: Scully, Doggett and Reyes are led to a ship where they find evidence of experimentation on human embryos.
+  link: https://en.wikipedia.org/wiki/Nothing_Important_Happened_Today
+  xlink: http://x-files.wikia.com/wiki/Nothing_Important_Happened_Today_II
+  place: Baltimore, Maryland
+  
+- season: 9
+  episode: 3
+  coordinates: -80.4728182,39.0405596
+  title: Dæmonicus
+  description: Scully helps Reyes and Doggett investigate a series of bizarre killings that seem to be due to demonic possession but which Doggett believes is a hoax.
+  link: https://en.wikipedia.org/wiki/D%C3%A6monicus
+  xlink: http://x-files.wikia.com/wiki/D%C3%A6monicus
+  place: Weston, West Virginia
+  
+- season: 9
+  episode: 4
+  coordinates: -77.0182812,38.8907759
+  title: 4-D
+  description: When Doggett is shot and hospitalized with severe injuries, all evidence points to Reyes as his attacker.
+  link: https://en.wikipedia.org/wiki/4-D_(The_X-Files)
+  xlink: http://x-files.wikia.com/wiki/4-D
+  place: Washington DC
+  
+- season: 9
+  episode: 5
+  coordinates: -74.2563667,39.6924848
+  title: Lord of the Flies
+  description: When an amateur stunt performer is killed while performing a daring act for a local cable reality show, Scully, Doggett and Reyes discover that the culprit was apparently a swarm of killer flies hidden in the victim's brain.
+  link: https://en.wikipedia.org/wiki/Lord_of_the_Flies_(The_X-Files)
+  xlink: http://x-files.wikia.com/wiki/Lord_of_the_Flies
+  place: Manahawkin, New Jersey
+  
+- season: 9
+  episode: 6
+  coordinates: -77.0266238,38.8907392
+  title: Trust No 1
+  description: Scully tries to arrange Mulder's return but learns that the forces against them are unrelenting.
+  link: https://en.wikipedia.org/wiki/Trust_No_1
+  xlink: http://x-files.wikia.com/wiki/Trust_No_1
+  place: Washington, DC
+  
+- season: 9
+  episode: 7
+  coordinates: -101.6028746,22.3521806
+  title: John Doe
+  description: Reyes and Scully struggle to locate Doggett after he wakes up in Mexico with no memory of who he is or how he got there.
+  link: https://en.wikipedia.org/wiki/John_Doe_(The_X-Files)
+  xlink: http://x-files.wikia.com/wiki/John_Doe
+  place: Sangradura, Mexico
+  fictitious: true
+  
+- season: 9
+  episode: 8
+  coordinates: -77.9137116,36.9172803
+  title: Hellbound
+  description: Reyes discovers she is somehow connected to a series of murders in which each victim is skinned alive.
+  link: https://en.wikipedia.org/wiki/Hellbound_(The_X-Files)
+  xlink: http://x-files.wikia.com/wiki/Hellbound
+  place: Novi, Virginia
+  fictitious: true
+  
+- season: 9
+  episode: 9
+  coordinates: 
+    - -112.7065646,49.068837
+    - -114.0665606,50.9532541
+  title: Provenance
+  description: Scully, Doggett and Reyes find evidence of a dangerous UFO cult which has found a second spacecraft similar to one Scully studied in Africa two years ago. Misled by the FBI, the agents enlist the help of the Lone Gunmen to protect Scully's son after they learn that the UFO cult apparently intends to kill the child.
+  link: https://en.wikipedia.org/wiki/Provenance_(The_X-Files)
+  xlink: http://x-files.wikia.com/wiki/Provenance
+  place: 
+    - Alberta, Canada
+    - Calgary, Canada
+  
+- season: 9
+  episode: 10
+  coordinates: -77.0051114,38.8981976
+  title: Providence
+  description: As Doggett recovers from injuries in hospital, Reyes and the Lone Gunmen help Scully in an effort to recover her baby.
+  link: https://en.wikipedia.org/wiki/Providence_(The_X-Files)
+  xlink: http://x-files.wikia.com/wiki/Providence
+  place: Washington DC
+  
+- season: 9
+  episode: 11
+  coordinates: -77.0135642,38.8790527
+  title: Audrey Pauley
+  description: After Reyes is involved in a serious car accident and subsequently hospitalized, Doggett meets a woman who works at the hospital who claims that she can contact his seemingly deceased partner.
+  link: https://en.wikipedia.org/wiki/Audrey Pauley_(The_X-Files)
+  xlink: http://x-files.wikia.com/wiki/Audrey_Pauley
+  place: Washington DC
+  
+- season: 9
+  episode: 12
+  coordinates: -73.9981224,40.7281359
+  title: Underneath
+  description: Doggett struggles to accept new evidence which seems to suggest that a man he arrested as a killer thirteen years ago was actually innocent.
+  link: https://en.wikipedia.org/wiki/Underneath_(The_X-Files)
+  xlink: http://x-files.wikia.com/wiki/Underneath
+  place: New York, New York
+  
+- season: 9
+  episode: 13
+  coordinates: -77.0442117,38.8939261
+  title: Improbable
+  description: While investigating a serial killer who uses numerology to choose his victims, Reyes and Scully meet an unusual man who may prove more of a hindrance than a help.
+  link: https://en.wikipedia.org/wiki/Improbable_(The_X-Files)
+  xlink: http://x-files.wikia.com/wiki/Improbable
+  place: Washington DC
+  
+- season: 9
+  episode: 14
+  coordinates: -78.7922606,39.8397069
+  title: Scary Monsters
+  description: Leyla Harrison, an FBI agent with a passion for the X-Files that Mulder and Scully investigated, alerts Scully, Doggett and Reyes to a case she believes is an X-File involving a young boy with an overactive imagination.
+  link: https://en.wikipedia.org/wiki/Scary_Monsters_(The_X-Files)
+  xlink: http://x-files.wikia.com/wiki/Scary_Monsters
+  place: Fairhope, Pennsylvania
+  
+- season: 9
+  episode: 15
+  coordinates: -80.1404711,25.7861317
+  title: Jump the Shark
+  description: When former Area 51 Man-in-Black Morris Fletcher appears, claiming that a female friend of the Lone Gunmen is actually a super-soldier, Doggett and Reyes attempt to locate her but find that the situation is graver than they first expected.
+  link: https://en.wikipedia.org/wiki/Jump_the_Shark_(The_X-Files)
+  xlink: http://x-files.wikia.com/wiki/Jump_the_Shark
+  place: Miami Beach, Florida
+  
+- season: 9
+  episode: 16
+  coordinates: -77.0219142,38.8870175
+  title: William
+  description: Scully, Doggett and Reyes encounter a mysterious, disfigured man who claims to have had contact with Mulder, and Scully gives her baby up for adoption.
+  link: https://en.wikipedia.org/wiki/William_(The_X-Files)
+  xlink: http://x-files.wikia.com/wiki/William
+  place: Washington DC
+  
+- season: 9
+  episode: 17
+  coordinates: -93.1657198,44.8862493
+  title: Release
+  description: A particularly adept student from Scully's class at the FBI Academy helps to finally solve the murder of Agent Doggett's son.
+  link: https://en.wikipedia.org/wiki/Release_(The_X-Files)
+  xlink: http://x-files.wikia.com/wiki/Release
+  place: Mendota, Minnesota
+  
+- season: 9
+  episode: 18
+  coordinates: -118.4673426,34.1872633
+  title: Sunshine Days
+  description: Scully, Doggett and Reyes find a man who seems obsessed with The Brady Bunch and has extraordinary mental powers.
+  link: https://en.wikipedia.org/wiki/Sunshine_Days
+  xlink: http://x-files.wikia.com/wiki/Sunshine_Days
+  place: Van Nuys, California
+  
+- season: 9
+  episode: 19
+  coordinates: 
+    - -77.890234,39.062955
+    - -108.4640222,37.2308772
+    - -104.6709037,33.3701475
+  title: The Truth
+  description: Mulder is discovered looking for classified information at an army base and, after allegedly killing an apparently indestructible super-soldier, he is placed on trial to defend the X-files.
+  link: https://en.wikipedia.org/wiki/The_Truth_(The_X-Files)
+  xlink: http://x-files.wikia.com/wiki/The_Truth
+  place: 
+    - Mount Weather
+    - Anasazi
+    - Roswell, New Mexico
   

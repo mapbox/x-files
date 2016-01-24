@@ -4,7 +4,10 @@
   "description": "Explore the X-Files!",
   "author": "katydecorah",
   "scripts": {
-    "test": "tape test/*.js | tap-spec"
+    "test": "scss-lint _sass/*.scss && tape test/*.js | tap-spec"
+  },
+  "dependencies": {
+    "scsslint": "0.0.3"
   },
   "devDependencies": {
     "js-yaml": "^2.1.3",

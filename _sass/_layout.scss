@@ -1,15 +1,15 @@
 * { box-sizing: border-box; }
 
 body { 
+  color: $font-color;
   font-family: $font-family;
-  font-size: $font-size;;
-  font-color: $font-color;
+  font-size: $font-size;
 }
 
 .listings,
 .map {
-  position: absolute; 
   height: 50%;
+  position: absolute;
   width: 100%;
 }
 
@@ -22,11 +22,11 @@ h1 {
 }
 
 .listings {
-  top: 50%;
   background: $bg-dark;
-  z-index: 100;
   overflow: auto;
   -webkit-overflow-scrolling: touch;
+  top: 50%;
+  z-index: 100;
 }
 
 .mb-watermark {
@@ -37,45 +37,41 @@ h1 {
 
 @media (min-width: 700px) {
   .map { 
-    height: 100%;
     bottom: 0;
+    height: 100%;
     right: 0;
     width: 100%;
   }
   
   h1 {
-    position: fixed;
-    background: #000;
+    background: $black;
     left: 0;
     padding: 10px 15px 0;
+    position: fixed;
   }
   
   h1,
   .listings {
-    width: 30%;
     max-width: 350px;
     min-width: 240px;
     top: 0;
+    width: 30%;
   }
   
   .mb-watermark {
-    margin-left: 31%;
     bottom: 0;
+    margin-left: 31%;
   }
   
   .listings {
+    background: rgba($bg-dark, .85);
+    border-right: 1px solid $black;
     bottom: 0;
     height: 100%;
-    background: rgba($bg-dark, .85);
-    border-right: 1px solid #000;
     padding-bottom: 100vh;
     
     .legend {
       padding-top: 3em;
-    }
-    
-    .active {
-      margin-top: 40px;
     }
   }
 }

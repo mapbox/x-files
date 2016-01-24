@@ -4,7 +4,7 @@
 }
 
 .item:not(:last-child) {
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid $black;
 }
 
 .title {
@@ -17,48 +17,49 @@
 }
 
 .legend {
-  background: #000;
+  background: $black;
+  border-bottom: 1px solid $black;
   color: $font-color-light;
-  border-bottom: 1px solid #000;
   margin-bottom: 10px;
-  
 }
 
 .item:not(.active) .marker {
-  color: rgba($font-color-light,.5);
+  color: rgba($font-color-light, .5);
 }
 
 .listings .active .title,
-.listings .title:hover { color: $link-hover; }
+.listings .title:hover { 
+  color: $link-hover; 
+}
 
 .listings .active {
   background-color: $font-color-light;
-}
-
-.listings .active .item-details {
-  font-size: $font-size;
-  display: block;
-  -webkit-animation: show .5s forwards;
-  animation: show .5s forwards;
+  
+  .item-details {
+    -webkit-animation: show .5s forwards;
+    animation: show .5s forwards;
+    display: block;
+    font-size: $font-size;
+  }
 }
 
 .tweet {
-  display: block;
   background: $link-color;
   color: $font-color-light;
+  display: block;
+  line-height: 1.25;
   margin: 0 -15px -10px;
   padding: 15px 10px;
-  line-height: 1.25;
+  
   &:hover {
     background: $link-hover; 
     color: $font-color-light; 
   }
 }
 
-
 .tweet-content {
-  width: 80%;
   margin-left: 10px;
+  width: 80%;
 }
 
 @-webkit-keyframes show {
