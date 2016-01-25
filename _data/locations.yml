@@ -1707,7 +1707,7 @@
   episode: 14
   coordinates: -112.0316489,46.5942778
   title: This Is Not Happening
-  description: With assistance from a specialist in ritualistic crime, Scully, Doggett and Skinner discover a group of UFO enthusiasts who help returned abductees recover.
+  description: With assistance from a specialist in ritualistic crime, Scully, Doggett, and Skinner discover a group of UFO enthusiasts who help returned abductees recover.
   link: https://en.wikipedia.org/wiki/This_Is_Not_Happening
   xlink: http://x-files.wikia.com/wiki/This_Is_Not_Happening
   place: Helena, Montana
@@ -1761,7 +1761,7 @@
   episode: 20
   coordinates: -77.2653386,39.176329
   title: Essence
-  description: Mulder, John Doggett and Skinner investigate lingering questions concerning Scully's pregnancy, reluctantly accepting help from Alex Krycek while Scully is pursued by Billy Miles - now an alien-human replacement after the events of DeadAlive.
+  description: Mulder, John Doggett, and Skinner investigate lingering questions concerning Scully's pregnancy, reluctantly accepting help from Alex Krycek while Scully is pursued by Billy Miles - now an alien-human replacement after the events of DeadAlive.
   link: https://en.wikipedia.org/wiki/Essence_(The_X-Files)
   xlink: http://x-files.wikia.com/wiki/Essence
   place: Germantown, Maryland
@@ -1770,7 +1770,7 @@
   episode: 21
   coordinates: -84.3570039,31.4518988
   title: Existence
-  description: Mulder, Doggett and Skinner discover that high-ranking FBI personnel have been transformed into alien super-soldiers while Reyes fears for Scully's unborn child as she prepares to deliver the baby on a remote farm.
+  description: Mulder, Doggett, and Skinner discover that high-ranking FBI personnel have been transformed into alien super-soldiers while Reyes fears for Scully's unborn child as she prepares to deliver the baby on a remote farm.
   link: https://en.wikipedia.org/wiki/Existence_(The_X-Files)
   xlink: http://x-files.wikia.com/wiki/Existence
   place: Georgia
@@ -1788,7 +1788,7 @@
   episode: 2
   coordinates: -76.5964085,39.2713863
   title: Nothing Important Happened Today II
-  description: Scully, Doggett and Reyes are led to a ship where they find evidence of experimentation on human embryos.
+  description: Scully, Doggett, and Reyes are led to a ship where they find evidence of experimentation on human embryos.
   link: https://en.wikipedia.org/wiki/Nothing_Important_Happened_Today
   xlink: http://x-files.wikia.com/wiki/Nothing_Important_Happened_Today_II
   place: Baltimore, Maryland
@@ -1815,7 +1815,7 @@
   episode: 5
   coordinates: -74.2563667,39.6924848
   title: Lord of the Flies
-  description: When an amateur stunt performer is killed while performing a daring act for a local cable reality show, Scully, Doggett and Reyes discover that the culprit was apparently a swarm of killer flies hidden in the victim's brain.
+  description: When an amateur stunt performer is killed while performing a daring act for a local cable reality show, Scully, Doggett, and Reyes discover that the culprit was apparently a swarm of killer flies hidden in the victim's brain.
   link: https://en.wikipedia.org/wiki/Lord_of_the_Flies_(The_X-Files)
   xlink: http://x-files.wikia.com/wiki/Lord_of_the_Flies
   place: Manahawkin, New Jersey
@@ -1855,7 +1855,7 @@
     - -112.7065646,49.068837
     - -114.0665606,50.9532541
   title: Provenance
-  description: Scully, Doggett and Reyes find evidence of a dangerous UFO cult which has found a second spacecraft similar to one Scully studied in Africa two years ago. Misled by the FBI, the agents enlist the help of the Lone Gunmen to protect Scully's son after they learn that the UFO cult apparently intends to kill the child.
+  description: Scully, Doggett, and Reyes find evidence of a dangerous UFO cult which has found a second spacecraft similar to one Scully studied in Africa two years ago. Misled by the FBI, the agents enlist the help of the Lone Gunmen to protect Scully's son after they learn that the UFO cult apparently intends to kill the child.
   link: https://en.wikipedia.org/wiki/Provenance_(The_X-Files)
   xlink: http://x-files.wikia.com/wiki/Provenance
   place: 
@@ -1920,7 +1920,7 @@
   episode: 16
   coordinates: -77.0219142,38.8870175
   title: William
-  description: Scully, Doggett and Reyes encounter a mysterious, disfigured man who claims to have had contact with Mulder, and Scully gives her baby up for adoption.
+  description: Scully, Doggett, and Reyes encounter a mysterious, disfigured man who claims to have had contact with Mulder, and Scully gives her baby up for adoption.
   link: https://en.wikipedia.org/wiki/William_(The_X-Files)
   xlink: http://x-files.wikia.com/wiki/William
   place: Washington, D.C.
@@ -1938,7 +1938,7 @@
   episode: 18
   coordinates: -118.4673426,34.1872633
   title: Sunshine Days
-  description: Scully, Doggett and Reyes find a man who seems obsessed with The Brady Bunch and has extraordinary mental powers.
+  description: Scully, Doggett, and Reyes find a man who seems obsessed with The Brady Bunch and has extraordinary mental powers.
   link: https://en.wikipedia.org/wiki/Sunshine_Days
   xlink: http://x-files.wikia.com/wiki/Sunshine_Days
   place: Van Nuys, California
@@ -1957,3 +1957,16 @@
     - Mount Weather
     - Anasazi
     - Roswell, New Mexico
+
+- season: 10
+  episode: 1
+  coordinates: 
+    - -104.6709037,33.3701475
+    - -79.882186,37.801954
+  title: My Struggle
+  description: This 2016 pilot reintroduces &rsquo;The X-Files&rsquo; and reunites Agent Mulder with Dana Scully after the collapse of their relationship when Mulder is engaged by a TV host. Mulder proclaims new evidence that alien abductions have been faked.
+  link: https://en.wikipedia.org/wiki/My_Struggle_(The_X-Files)
+  xlink: http://x-files.wikia.com/wiki/My_Struggle
+  place: 
+    - Roswell, New Mexico
+    - Low Moor, Virginia
