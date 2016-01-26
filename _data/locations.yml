@@ -1970,3 +1970,14 @@
   place: 
     - Roswell, New Mexico
     - Low Moor, Virginia
+
+- season: 10
+  episode: 2
+  coordinates:
+    - -76.953105,39.045042
+  title: Founder's Mutation
+  description: A scientist working for the DOD commits suicide. Mulder and Scully start an investigation only to discover a secret mutation experiment.
+  link: https://en.wikipedia.org/wiki/Founder%27s_Mutation
+  xlink: http://x-files.wikia.com/wiki/Founder%27s_Mutation
+  place:
+    - Washington, D.C.
