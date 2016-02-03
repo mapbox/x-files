@@ -1981,3 +1981,14 @@
   xlink: http://x-files.wikia.com/wiki/Founder%27s_Mutation
   place:
     - Washington, D.C.
+    
+- season: 10
+  episode: 3
+  coordinates: -121.8809376,44.9807909
+  title: Mulder and Scully Meet the Were-Monster
+  description: When a dead body is found in the woods, Mulder and Scully are called in to investigate whether it was an animal attack, a serial killer or just maybe a strange creature as described by eyewitnesses.
+  link: https://en.wikipedia.org/wiki/Mulder_and_Scully_Meet_the_Were-Monster
+  xlink: http://x-files.wikia.com/wiki/Mulder_and_Scully_Meet_the_Were-Monster
+  place: Shawan, Oregon
+  fictitious: true
+  
