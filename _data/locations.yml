@@ -1991,4 +1991,13 @@
   xlink: http://x-files.wikia.com/wiki/Mulder_and_Scully_Meet_the_Were-Monster
   place: Shawan, Oregon
   fictitious: true
+
+- season: 10
+  episode: 4
+  coordinates: -75.168232,39.9482097
+  title: Home Again
+  description: Mulder and Scully are sent to investigate the murder of a city official, which it seems no human could have committed. Meanwhile, Scully deals with a personal tragedy, which brings up many old feelings about the child she gave away for adoption.
+  link: https://en.wikipedia.org/wiki/Home_Again_(The_X-Files)
+  xlink: http://x-files.wikia.com/wiki/Home_Again
+  place: Philadelphia, Pennsylvania
   
