@@ -2010,3 +2010,16 @@
   xlink: http://x-files.wikia.com/wiki/Babylon
   place: Southwest Texas
   
+- season: 10
+  episode: 6
+  coordinates:
+    - -77.0293392,38.8960531
+    - -81.9400361,34.9402755
+  title: My Struggle II
+  description: A widespread panic begins as people all over the country suddenly start falling gravely ill, and Scully must look within to try and find a cure. Meanwhile, Mulder confronts the man whom he believes to be behind it all, but another figure from Mulder and Scully’s past may prove to be the key to their salvation.
+  link: https://en.wikipedia.org/wiki/My_Struggle_II
+  xlink: http://x-files.wikia.com/wiki/My_Struggle_II
+  place: 
+    - Washington, D.C.
+    - Spartanburg, South Carolina
+    
