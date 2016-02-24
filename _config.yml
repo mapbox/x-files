@@ -6,7 +6,7 @@ image: map.png
 
 accessToken: pk.eyJ1Ijoia2F0eWRlY29yYWgiLCJhIjoiY2lqZW1yamRjMDAwOXV1a2tqazIwcDF5diJ9.CK-1bGJq2o2imB-JMNVDBg
 styleURL: katydecorah/cij7oa7ta006v8sm44uj5nrbw
-mapboxgljs: v0.13.1
+mapboxgljs: v0.14.2
 
 sass:
   style: :compressed
