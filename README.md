@@ -42,7 +42,7 @@ This site is built with [Jekyll](https://help.github.com/articles/using-jekyll-w
 Run it locally:
 
 ```
-bundle exec jekyll serve -w
+jekyll serve -w
 ```
 
 Validate data:

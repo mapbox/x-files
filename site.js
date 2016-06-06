@@ -252,14 +252,16 @@ markers.features.reduce(function(prev, locale, index, array) {
 
 // When a click event occurs near a marker icon, activate it's listing in the sidebar and set the circle to active
 map.on('click', function (e) {
-  map.featuresAt(e.point, {layer: 'markers', radius: 10, includeGeometry: true}, function (err, features) {
-    if (err || !features.length)
-    return;
-    
+    var features = map.queryRenderedFeatures(e.point, { layers: ['markers'] });
+
+    if (!features.length) {
+      return;
+    }
+
     var feature = features[0];
-    
+
     // change circle fill on click
-    if (!err && features.length) {
+    if (features.length) {
       map.setFilter("markers-hover", ["==", "id", features[0].properties.id]);
     } else {
       map.setFilter("markers-hover", ["==", "id", ""]);
@@ -267,15 +269,11 @@ map.on('click', function (e) {
     
     // scroll to clicked listing
     setActive(document.getElementById(feature.properties.id));
-    
-  });
-  
 });
 
 // Use the same approach as above to indicate that the symbols are clickable
 // by changing the cursor style to 'pointer'.
 map.on('mousemove', function (e) {
-  map.featuresAt(e.point, {layer: 'markers', radius: 10}, function (err, features) {
-    map.getCanvas().style.cursor = (!err && features.length) ? 'pointer' : '';
-  });
+  var features = map.queryRenderedFeatures(e.point, { layers: ['markers'] });
+    map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
 });
