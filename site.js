@@ -2,7 +2,6 @@
 
 ---
 
-// This is a test comment for publisher
 mapboxgl.accessToken = '{{site.accessToken}}';
 
 if (!mapboxgl.supported()) {
