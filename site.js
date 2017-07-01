@@ -2,6 +2,7 @@
 
 ---
 
+// Set access token
 mapboxgl.accessToken = '{{site.accessToken}}';
 
 if (!mapboxgl.supported()) {
