@@ -14,3 +14,4 @@ sass:
 exclude:
 - node_modules
 - .sass-cache
+- test
